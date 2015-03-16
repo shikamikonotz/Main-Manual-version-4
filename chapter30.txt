@@ -1,0 +1,285 @@
+#Chapter 30: Science Competitions
+
+Students, just like nearly all other people, enjoy competing against one another. Likening math and science-related activities to the competition of a football league can be a wonderful motivator for students. Given below are some suggestions for utilizing competitions while teaching about science.
+
+- Combine students of various abilities together on a team. This will allow the bright students to develop leadership skills and help to bring up the slow learners.
+- Limit teams to 3-5 students. Balance the number of boys and girls on a team, or choose to have all-boys teams compete against all-girls teams.
+- Allow students to pick their own team name, and possibly draw a team flag if time allows.
+- Create a standings board for the competition. For example:
+
+|                   | Egg Drop | Jenga Jengo | Raft Rally | Drop Zone | Bridge Challenge | TOTAL |
+| ----------------- | -------- | ----------- | ---------- | --------- | ---------------- | ----- |
+| Big Stars         |          |             |            |           |                  |       |
+| Chelsea           |          |             |            |           |                  |       |
+| Simba             |          |             |            |           |                  |       |
+| Arsenal           |          |             |            |           |                  |       |
+| Kings             |          |             |            |           |                  |       |
+| Manchester United |          |             |            |           |                  |       |
+
+- Have teams present and explain their designs to the audience where applicable. Allow other students to ask questions/provide criticisms.
+- Follow up each activity with a short lesson about a concept illustrated by the competition (e.g. Archimedes’ Principle for Raft Rally; see competition write-ups for more).
+- Ask students how they would revise their designs or make improvements if they could do the activity again.
+- Explain how the activities can be applied to solve real-life problems (e.g. Jenga Jengo for Civil Engineers).
+
+##30.1 Egg Drop
+
+**Time:** 1 hour 
+
+###How It Works:
+Students must build a device to transport an egg through a given drop distance without cracking.
+
+###What You Need (per team)
+
+- Plain paper (4 sheets)
+- Plastic Bag (2)
+- String (1 meter)
+- Masking tape (1 roll)
+- Balloons or, if unavailable, condoms (4)
+- Straws (10)
+- Toothpicks (10)
+- Tongue depressors (4)
+- Rubber bands (4)
+- Index cards (4)
+- Paper clips (10)
+- Toilet paper (1 roll)
+- 500 mL bottle (1)
+- Newspaper (1 sheet)
+- Egg (1)
+
+###Rules
+
+- 45 minute time limit for construction.
+- Devices dropped from a height of 3-5 metres.
+- Teams can use only the materials given, but do not need to use everything.
+- Egg is placed at time of testing. It must be possible to place and remove egg freely without altering the device.
+- Once egg is placed, no further adjustments may be made. This means the egg cannot have any kind of “seat belt” or strap fastened after placing the egg.
+
+###Points
+
+Egg Survives - 50 pts. Egg Cracks - 0 pts
+
+###Additional Materials
+
+- Ladder / chair
+- Scissors for community use
+
+###Notes
+
+- Do not give eggs to teams until time of testing.
+- If possible, increase drop height for surviving eggs and give bonus 25 pts for each additional successful drop.
+
+###Science Applications
+
+**Air Resistance (Physics Form I):** Air resistance provides a frictional force which opposes the ob- ject’s motion as gravity attracts it towards the centre of the earth. This upward force reduces the speed of the object as it falls, allowing it to land more softly and protect the egg. Thus, we want to maximize the air resistance on the object (e.g. by using a large parachute).
+
+**Pressure (Physics Form I):** The force of impact on the device when it hits the ground can be reduced by increasing the surface area which contacts the ground. Constructing a wide base (e.g. using balloons) reduces the impact on the egg and thus helps to protect it.
+
+###Taking It Further
+Did students utilize the parachute concept? If not, show a brief example. How does this help to protect the egg? Is it better to have a large parachute or a small one?
+
+## 30.2 Jenga Jengo
+
+**Time:** 30-45 minutes
+
+###How It Works
+Students must build the tallest structure possible, using only paper and tape, as quickly as possible and while ensuring good stability.
+
+###What You Need (per team)
+
+- Plain paper (25 sheets)
+- Masking tape (1 roll)
+
+###Rules
+- 20-minute time limit for construction.
+- Cannot use tape roll as weight inside structure.
+- Stability tested by waving book at structure (Wind Test).
+
+###Points
+1st to finish – 50 pts  
+Tallest structure – 50 pts  
+Passes Wind Test – 50 pts  
+
+###Additional Materials
+- Tape Measure
+- Stopwatch
+- Book / waving device
+
+###Notes
+- All structures that pass the Wind Test are awarded 50 pts.
+- Alternate Wind Test: place structures outside on a windy day. Those standing after 1 minute pass.
+
+###Science Applications
+
+**Centre of Gravity (Physics Form I):** Civil engineers construct buildings with a low centre of gravity, making them less likely to fall over due to wind forces. To maintain stable equilibrium, a building should have a wide base with a large mass, while the top of the building should have a small area and less mass.
+
+###Taking It Further
+- Show students pictures of buildings and structures from around the world after the competition. Did the students’ structures resemble any of them?
+- Try variations, giving students index cards, straws or matches instead of plain paper.
+
+##30.3 Raft Rally
+
+**Time:** 30-45 minutes
+
+###How It Works
+Students must build a raft using only aluminum foil that can support the heaviest load before sinking.
+
+###What You Need (per team)
+- Aluminum foil – 20 cm × 20 cm sheet
+- Straws - 4 (optional)
+
+###Rules
+- 10-minute time limit for construction.
+- Replacement sheet may be given in case of rips/tears, at a 20 pt deduction.
+
+###Points
+1st Place – 100 pts
+2nd Place – 75 pts
+3rd Place – 50 pts
+4th Place – 25 pts
+Others – 0 pts
+
+###Additional Materials
+- Large container or bucket (clear if possible) filled with water
+- Nails (× 200) / Bottle caps (× 200) / Other small weights for testing
+
+###Notes
+- As raft approaches the point of sinking, add weights more slowly.
+- Raft is finished when water begins to enter, and total number of weights is recorded.
+
+###Science Applications
+
+**Archimedes’ Principle (Physics Form I):** *Archimedes’ Principle* states that
+
+Upthrust = Weight of displaced fluid
+ 
+Here, we want to maximize the force of upthrust to avoid sinking. So that means maximize the Weight of the displaced water: Weight = mass x acceleration due to gravity, or
+
+$$ W=mg $$
+
+Gravity is a constant , but mass depends on two things: density \(\rho\) and volume \(V\).
+
+We know that \(\rho = {m}\over{V}\), so that means \(m = \rho V\).
+
+The density of the water is constant, so the only thing we can change is the Volume of water displaced. Thus to get the most upthrust and prevent sinking, we need to displace a large volume of water, i.e. build a raft with a large base.
+
+###Taking It Further
+- Ask students how they would revise their designs if they could do it again.
+- Try variations, giving students straws, toothpicks, tongue depressors or index cards.
+
+##30.4 Drop Zone
+
+**Time:** 30-45 minutes
+
+###How It Works
+Students must build a parachute using limited materials to carry a paper clip passenger as close as possible to a target, while maximizing hang time.
+
+###What You Need (per team)
+- Paper clip (1) 
+- Plastic bag (2)
+- String (1 metre) 
+- Plain paper (2 sheets)
+- Masking tape (15 cm)
+- Scorecard (see example below)
+
+###Rules
+- 10-15 minute time limit for construction.
+- Parachutes dropped from a height of 3-5 metres.
+- Average hang time and distance from target taken over 3 trials for each team.
+
+###Points
+Hang Time (Longest): 1st – 50 pts, 2nd – 35 pts, 3rd – 20 pts, 4th - 5 pts, Others - 0 pts
+Distance (Shortest): 1st – 50 pts, 2nd – 35 pts, 3rd – 20 pts, 4th - 5 pts, Others - 0 pts
+
+###Additional Materials
+- Tape measure
+- Flipchart target
+- Stopwatch
+- Ladder / chair
+
+###Notes
+- Scorecard:
+
+| **Team** | **Trial 1** | **Trial 2** | **Trial 3** | **Average** | **Points** |
+| -------- | ----------- | ----------- | ----------- | ----------- | ---------- |
+| **Hang Time (s)** |      |           |             |             |            |
+| **Distance from Target (cm)** |      |      |      |             |            |
+
+- Measure distance from paper clip to centre of target. 
+
+###Science Applications
+
+Air Resistance (Physics Form I): Air resistance provides an upward force on the parachute, which acts against the force of gravity and causes the object to fall more slowly. The larger the surface area of the parachute, the more slowly it will fall.
+
+###Taking It Further
+- Students may not be familiar with parachutes. Prepare a simple example to explain the concept and function.
+- Ask students questions: Why does the parachute slow the object down? To maximize hang time, do we want a very large or very small parachute? Would a parachute work on the moon?
+- Drop parachute side-by-side with a paper clip having no parachute. Which one made it safely?
+
+##10.5 Bridge Challenge
+
+**Time:** 1 hour 30 minutes
+
+###How It Works
+Students must build a bridge that can support the most weight, while using a limited budget of Science Shillings to purchase construction materials.
+
+###What You Need (per team)
+- Straws (20)
+- Bamboo skewers (20)
+- Bamboo stick (fimbo) (1)
+- Tongue depressors (10)
+- Toothpicks (2 small cans)
+- String (3 meters)
+- Office glue (1 tube/jar)
+- Rubber bands (10) 
+- Pencils (2)
+- Index cards (10)
+- Masking tape (1 roll)
+- Duct tape (1 roll, for everyone)
+- Ruler (1)
+- Scissors (1)
+- Science Shillings (20)
+
+###Rules
+- Approximately 45 minute time limit for construction.
+- Teams begin with only a ruler, scissors and 20 Science Shillings. These items may NOT be used in construction of bridge.
+- All building materials must be purchased from a science shop. Suggested prices are as follows:
+
+Straws (bundle of 10) 1/= 
+Skewers (bundle of 10) 2/= 
+Fimbo 3/= 
+Tongue depressors (× 5) 2/= 
+Toothpicks (2 small cans) 1/= 
+String (1 metre) 1/=
+Office glue (1 tube) 3/= 
+Rubber bands (× 5) 1/= 
+Pencil 1/= 
+Index cards (× 5) 1/= 
+Masking tape (1 roll) 3/= 
+Duct tape (30 cm) 1/=
+
+- Bridges will be loaded by placing rocks or other weights into a small bucket that must rest on top of the bridge.
+- Bridge must span a 30 cm gap between two chairs / tables.
+- 1 student from each team must be designated as team accountant. Only this student may purchase items from the shop.
+
+###Points
+(Based on number of rocks / weights placed before bridge fails)
+1st – 100pts, 2nd – 75pts, 3rd – 50pts, 4th – 25pts, Others – 0pts 
+**BONUS:** 5 pts per Science Shilling remaining after construction
+
+###Additional Materials
+- Small bucket
+- Several large rocks (20) / other large weights
+- 2 chairs / tables 30 cm apart
+
+###Notes
+- Science shop table
+- Extra bamboo sticks (fimbos) – 2-4 • Index Cards for price signs – 12
+- Student accountants may only purchase 1 of each item at a time. They must allow other students to make purchases before buying another of that item.
+- At some point 15-20 minutes into construction time, shopkeeper may announce a newly received shipment of bamboo sticks (fimbos). However, due to demand, the price has increased to 5 /=.
+- Bridge has failed when it either collapses / breaks or when the bucket can no longer be balanced on top of it. Record largest number of weights successfully added.
+
+###Taking It Further
+- Ask students to present their bridges and describe how they decided to manage their money. What materials did they purchase and why?
+- What would they do differently if they could start again?
+- Which team finished with the most total points after the BONUS? Did the most money spent result in the strongest bridge? Who was the most efficient with their money?
+- Show students pictures of bridges from around the world after the competition. Did the students’ bridges resemble any of them?

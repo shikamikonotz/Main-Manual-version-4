@@ -1,0 +1,38 @@
+#Chapter 13: Recycling Materials 
+
+##13.1 Recycling Silver Nitrate
+
+In many places, silver nitrate is the most expensive chemical used in a school laboratory. Silver nitrate is often used to confirm the presence of halide ions, which form insoluble precipitates with silver cations. The result of such tests are silver halide precipitates, themselves of little value.
+
+- To regenerate the silver nitrate from these silver halides you must first reduce the silver halides to silver metal and then dissolve the metal in nitric acid. This process is easiest and most efficient with a large amount of material, so consider accumulating silver waste in a central location for many terms and perhaps from many schools.
+- To reduce the silver halides, they must be in solution.
+- Add aqueous ammonia solution to the silver halides until they dissolve. You have formed a soluble silver-ammonia complex.
+- Add to the mixture a reducing agent. We have used both glucose and steel wool. Ascorbic acid, zinc metal, and sodium thiosulfate should in theory also work.
+- Heat the mixture until a metallic silver precipitate forms. It is OK if the solution boils.
+- Once you believe all of the silver has precipitated as metal, decant the liquid, ideally filtering to separate all of the silver metal. Wash the silver metal in distilled (rain) water and filter again.
+- Before adding nitric acid, make sure that the silver is dry.
+- Then, add concentrated nitric acid slowly. The goal is to dissolve most but not all of the silver metal. If you dissolve all of the metal, you may have residual nitric acid in your silver nitrate solution that will make it ineffective for many uses.
+- Decant the solution into a dark bottle. Silver nitrate decomposes in light. Save the residual silver metal for the next time you do this.
+
+##13.2 Recycling Organic Waste
+
+Organic chemicals are often expensive to purchase and difficult to dispose. Every effort should be made to collect organic wastes and recycle them. For the purpose of this discussion, organic chemicals are liquids insoluble in water, e.g. kerosene, ether, ethyl ethanoate (ethyl acetate), etc.
+
+- Mixtures of multiple organic wastes require fractional distillation to separate. This is difficult and dangerous without the right equipment. Generally, if none of the organic chemicals in the mixture are particularly dangerous – see the section on Dangerous Chemicals (p. 37) – it is best to label the mixture “mixed organic solvents, does not contain benzene or chlorinated hydrocarbons” and keep it for future use as a generic solvent or for solubility activities.
+
+- Mixtures of a single organic waste and water are inherently unstable, and given enough time will separate out into two layers. If the organic layer is on the bottom, it is probably di-, tri-, or tetrachloromethane, all dangerous chemicals. Follow the instructions in Dangerous Chemicals (p. 37). If the organic layer is on the top, simply decant it off. You might do this in two steps – the first to separate only water from organic mixed with some water, and the second to separate from the latter fraction pure organic from a small volume that remains a mixture. Then the water can be discarded, the organic saved, and the small residual mixture left open to the air to evaporate.
+
+- Often, mixtures of organic and aqueous waste contain a solute dissolved in both solvents. The solvent is said to be distributed or partitioned between these two layers. Examples of compounds that partition between an organic and an aqueous layer are organic acids, like ethanoic acid (acetic acid) and succinic acid, and iodine when the aqueous layer is rich in iodide (usually potassium iodide). To reuse the organic layer it is necessary to first remove the solute.
+- If the solute is an organic acid, add a small amount of indicator to the mixture and then sodium hydroxide solution, shaking vigorously from time to time. The sodium hydroxide will react with the organic acid in the aqueous layer, converting it to the salt. As the concentration of the acid in the aqueous layer decreases, the distribution equilibrium will “push” acid dissolved in the organic layer into the aqueous layer, where it too is converted to salt. Eventually, all the organic acid will be converted to its conjugate base salt, which is only soluble in the aqueous layer, and the indicator will show that the aqueous layer is alkaline even after much shaking. Now the organic layer may be run off as above.
+- If the solute is iodine, the organic layer should have a color due to the iodine, and thus it will be straightforward to know when the iodine is fully removed. If there is no color, add starch to give a black color to the aqueous layer. Then add ascorbic acid (crushed vitamin C tablets) to the mixture and shake vigorously until either the organic layer returns to its normal color or the starch-blackened aqueous layer turns colorless. At this point all of the iodine will have been reduced to iodide, soluble only in the aqueous layer. The clean organic layer may be run off as above. Sodium thiosulfate may be used instead of ascorbic acid.
+
+If you require the final organic to be of quite high purity, repeat the treatment. A small amount of residual water may also be removed with use of a drying agent, such as anhydrous sodium sulfate or calcium chloride.
+
+##13.3 Industrial Ecology in the Laboratory
+Industrial Ecology is a manufacturing design philosophy where the byproducts of one industrial operation are used as input material for another. The philosophy may be applied to a school laboratory with similar economic and environmental benefits.
+
+The science teacher generally plans the term in advance, and thus has a good understanding of the experiments students will perform. Each experiment has input reagents and output products. Normally, each of these inputs has to be purchased, sometimes at great expense, and each of these outputs has to be disposed of properly. When the term is analyzed in aggregate, however, there should be many occasions where the outputs of one experiment may serve as the inputs for another.
+
+For example, students learning about exothermic reactions might dissolve sodium hydroxide in water and measure the temperature increase. The students might then use this solution of sodium hydroxide for a titration against a solution of ethanoic acid. The product of this titration will be perfectly balanced sodium ethanoate solution, which may be used in qualitative analysis for detecting iron (III) salts.
+
+To maximize the opportunities for such pairings of inputs and outputs, the teacher should identify the reagents and byproducts of all activities planned for the term. Teachers may even coordinate between subjects - the reaction between citric acid and sodium carbonate to make carbon dioxide in chemistry class produces a sodium citrate solution that may be used to prepare Benedict’s solution for biology class.

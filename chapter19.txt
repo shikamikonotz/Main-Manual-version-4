@@ -1,0 +1,25 @@
+#Chapter 19: Preparation of Solutions Without a Balance
+
+The procedure in the section on Relative Standardization (p. 66) allows us to do something seemingly impossible – prepare solutions for volumetric analysis that allow students to get perfect results without using either a balance or volumetric glassware in the preparation. All that you have to do is make two solutions that are close, and then use several cycles of relative standardization to prefect the molarity ratio.
+
+To measure volume, we can use marks on plastic water bottles as described in the entry for volumetric glassware in the Sources of Laboratory Equipment (p. 208) section.
+
+##19.1 To make 0.05 M sulphuric acid (equivalent to 0.1 M HCl) for fifty students
+
+1. Put 9.9 liters of water into a bucket.
+2. Add 110 mL of battery acid. This may be accomplished easily by filling a 10 mL plastic syringe eleven times.
+
+##19.2 To make 0.033 M citric acid (equivalent to 0.1 M HCl) for fifty students
+
+1. Put 10 liters of water into a bucket.
+2. Add 64 g of citric acid. In the absence of a balance, one can often have 1/8 of a kilogram (125 g) measured in the market. Dissolve this in 20 L of water to produce a 0.033 M solution.
+
+##19.3 To make 0.1 M sodium hydroxide for fifty students
+
+1. Put 10 liters of water into a bucket.
+2. Add 40 g of caustic soda. In the absence of a balance, use a plastic syringe to find the volume of a plastic spoon. Fill the spoon with caustic soda and use it to add a total of 19 cm3 or mL caustic soda knowing the volume of each spoonful. Please read the safety note in Dangerous Chemicals (p. 37).
+
+##19.4 To make 0.1 M sodium hydrogen carbonate for fifty students
+
+1. Put 10 liters of water into a bucket.
+2. Add 84 g of bicarbonate of soda. In the absence of a balance, find the volume of a spoon as above and add 39 cm3 or mL of bicarbonate of soda. Alternately, if 8.33 liters of solution is sufficient, measure this volume of water and then add one whole box of bicarbonate of soda. A box is 70 g.

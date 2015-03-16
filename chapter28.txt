@@ -1,0 +1,550 @@
+#Chapter 28: Physics Practicals
+
+##28.1 Introduction to Physics Practicals 
+
+###28.1.1 Format
+
+The format of the Physics practical exam was revised in 2011 to keep up with the 2007 updated syllabus. As such, there will be no further Alternative to Practical exams, pending approval from the Ministry of Education. Prior to 2011, there were 3 questions in the Physics practical, and students chose 2 questions to do.
+
+As of now, the Physics practical has 2 questions and students must answer both. Question 1 comes from Mechanics, and Question 2 can come from Heat, Light, Waves or Electricity. Each question is worth 25 marks, and students have 2 and a half hours to complete the exam. 
+
+**Physics 1 Theory Format**
+
+The theory portion of the Physics exam comprises 100 marks, while the practical carries 50 marks. A student’s final grade for Physics is thus found by taking her total marks from both exams out of 150.
+
+The theory exam for Physics contains 3 sections. Section A has 3 questions and is worth 30 marks - Question 1 is 10 multiple choice, Question 2 is 10 matching, and Question 3 is 10 fill-in-the-blank. Section B has 6 long answer questions and is worth 60 marks. Section C has 2 questions regarding the use of apparatus and simple technological appliances in everyday life, though students must answer only 1 of these questions. It is worth 10 marks.
+
+*Note* This information is current as of the time of publication of this manual. Updated information may be obtained by contacting the Ministry of Education.
+
+###28.1.2 Notes for Teachers
+
+**NECTA Advance Instructions**
+There is only one set of advance instructions for the Physics practical. Advance instructions are given to teachers at least one month before the date of the exam. Unlike Biology and Chemistry, there are no 24 hour advance instructions given for Physics. The advance instructions will state exactly how many and which apparatus candidates should be provided with for each practical question.
+
+**Words of Advice**
+The Physics practical is different from the Chemistry and Biology practicals in that the exams feature a greater variety of questions. That means we need to teach it all, even if the teacher before you never found his or her way into the classroom and you realize at the end of Form Four that the students still have not studied the Form Two syllabus. If you are teaching all forms, do not wait to start practicals until later forms; always do a practical when the corresponding topic comes up. In addition, train the students well in the general principles of collecting data, graphing data, and writing up experimental points. These skills are required in every physics practical, and carry most of the points.
+
+The practical section of the exam is a third of a student’s total score, and fully half of that is graphing and labeling experimental data. Though the practical is varied, a student does not necessarily need a deep understanding of the concept in question. If they are familiar with the apparatus and the process of drawing and interpreting a graph, the practical should be quite simple. Whenever possible, allow the students to play and experiment with the apparatus, whether it is a metre bridge, mirror, pendulum, etc. If they have done each of these experiments several times, they will be confident in their ability.
+
+The more familiar your students are with these techniques, the better they will do. Perform these practicals as often as possible: when the topic comes up, when preparing for the mock and NECTA exams, and any time you can get them to come in for an evening session or a weekend. They will make many, many mistakes the first couple of times through but that is exactly what you want as they will learn from their mistakes and remember them.
+
+###28.1.3 Common Practicals
+**Mathematics** A brief overview of some of the mathematical and graphing skills required to perform many of the common physics practicals
+
+**Mechanics**
+
+- **Hooke’s Law (Form 1)** use a spring and various masses to determine either the spring constant or the value of an unknown mass graphically
+- **Simple Pendulum (Form 2)** find the acceleration due to gravity using a pendulum and stop- watch
+- **Principle of Moments (Form 2)** verify the Principle of Moments using masses and a ruler on a knife edge, or calculate the mass of a metre rule
+
+**Light**
+
+- **Plane Mirror (Reflection) (Form 1)** generally 3 varieties: find image distance, verify the Laws of Reflection, or find the number of images produced by two plane mirrors placed at different relative angles
+- **Rectangular Prism (Refraction) (Form 3)** find the refractive index or critical angle for a glass block by varying the angle of incidence and measuring the corresponding angles of refraction
+
+**Electricity**
+
+- **Potentiometers** find the drop in potential along a length of resistance wire
+- **Metre Bridges** determine the value of an unknown resistor using a known resistor and a galvanometer to find a point of equal potential along a resistance wire
+- **Ohm’s Law (Form 2)** verify Ohm’s Law or determine the internal resistance of a cell
+
+*Note* These are the most common practicals, but they are not necessarily the only practicals that can occur on a NECTA exam. Physics practical questions can come from a variety of topics which may not yet have been used in older past papers. Be sure to regularly check the most recent Physics Past Papers to get a good idea of the types of questions to expect.
+
+###28.1.4 Recent Practicals
+Given below is an attempt to characterize the Physics practical questions from recent years according to category and topic. Each question is given with its corresponding topic on top and the objective, or what is to be solved for, on bottom. This information can be used to try and find trends in what exam writers like to test students on, and what topics are most likely to occur on an exam. However, nothing should be assumed to be a guarantee, and students should be well-prepared in all practicals so that they can take on any question they may face on the NECTA.
+
+Note a few things from the table below:
+
+- Beginning in 2011, the format of the exam changed to consist of only 2 problems, one of which must come from Mechanics.
+- The exam committee has a tendency to repeat some problems. For example, the Mechanics questions from 2004 and 2011 are nearly identical, as are the Light questions from 2004 and 2008.
+
+| **Year** | **Mechanics** | **Light** | **Electricity** |
+|----------|---------------|-----------|-----------------|
+|   2013   |               |           |                 |
+|   2012   |               |           |                 |
+|   2011   |               |           |                 |
+|   2010   |               |           |                 |
+|   2009   |               |           |                 |
+|   2008   |               |           |                 |
+|   2007   |               |           |                 | 
+|   2006   |               |           |                 |
+|   2005   |               |           |                 |
+|   2004   |               |           |                 |
+
+##28.2 Mathematics
+
+No physics experiment is complete without a healthy dose of graphing and formulas. As math is typically the worst subject for most students, it is often upon the physics teacher to drive home the understanding of how to draw and interpret graphs, as well as how to apply formulas to those graphs. It comes down to a few simple things: correctly setting up a graph (scales, units, labels, etc.), plotting points from a table of data, and fitting a best-fit line. After this, the students need to find the slope of this line and its y-intercept.
+
+###28.2.1 Graphing
+
+Most of the graphs will be linear, meaning the slope is constant, so we apply the standard equation for a line
+
+$$ y = mx + c $$
+
+where *y* represents the vertical axis, *x* represents the horizontal axis, *m* is the slope of the line and *c* is the point on the vertical axis where the line crosses. Almost every practical will make use of this equation, so be sure that your students understand it inside and out. It often helps to do repetitive practice using just the mathematical symbols before introducing physics concepts. Note that very rarely non-linear graphs appear, e.g. cooling curves in heat practicals. In this case students will not have to find a mathematical relationship, just describe and explain the trend in the data.
+
+###28.2.2 Formulas
+
+Now comes the physics; all the practicals will involve an equation that can be rewritten in this linear form. The exam question will dictate which variable is independent (*x*) and which is dependent (*y*). It is up to the student to simply rewrite the formula with each variable on its respective side and then infer what *m*, the slope, and *c*, the *y*-intercept, must be.
+The most common formulas used for mechanics, light and electricity are as follows:
+
+|     Hooke's Law      |                 | 
+| -------------------- | --------------- |
+| Period of a Pendulum |                 |
+| Principle of Moments |                 |
+| Snell's Law          |                 |
+| Ohm's Law            |                 |
+| Resistance of a Wire |                 |
+| Wheatstone Bridge    |                 |
+
+In each case, one quantity will be changed (independent) and another will be measured (dependent) over the course of the experiment. The student will therefore need to rearrange the equation so that the dependent variable is the subject in the form
+
+$$ y = mx + c $$
+
+**Example Problem - Snell’s Law**
+
+As an example, in an experiment to measure the index of refraction of a glass block, a student will be measuring angles of incidence and refraction. This means we need to use Snell’s Law
+
+$$ n_1 \times \sin{i} = n_2 \times \sin{r} $$
+
+The question will typically ask students to plot a graph of their measurements, with sin *i* on the *y*-axis and sin *r* on the *x*-axis, or vice-versa. To rewrite Snell’s law in the form of *y = mx + c* is simple; we get 
+
+$$ \sin{i} = \sin{r} \times \frac{n_2}{n_1} $$
+
+and we can see that the value corresponding to *m* is the ratio 
+
+$$ \frac{n_1}{n_2}\ $$
+
+and *c* must be zero.
+
+Since we are trying to find *n\(_2\)* (the refractive index of glass), and we know *n\(_1\)* is 1.0, we simply measure the slope and solve to find *n\(_2\)*.
+
+The approach itself is relatively simple, but students will need lots of practice with graphing, rewriting equations in linear form, and determining what corresponds to *m* and *c* in each case. The same approach is used to find the quantities in each of the equations above.
+
+A complete list of each equation in its most commonly found *y = mx + c* form, along with its corresponding dependent variable *y*, independent variable *x*, slope *m* and *y*-intercept *c*, is given below. Note that these equations are not always used in the given form on practicals. It is up to the student to determine how each equation must be analyzed during an exam. The variables used and methods of graphing change from year to year, and so the following table should by no means be memorized or assumed to be applicable for a given problem.
+
+| **Name of Law**  | **Equation** | **\(y=mx+c\)** | **\(y\)**| **\(x\)**| **\(m\)** | **\(c\)** |
+| ---------------- | ------------ | ------------   | ---------- | ------------- | ------------- | ------------- |
+| Period of a Pendulum |          |                |       |       |       |       |
+| Principle of Moments |          |                |       |       |       |       |
+| Snell's Law          |          |                |       |       |       |       |
+| Ohm's Law            |          |                |       |       |       |       |
+| Resistance of a Wire |          |                |       |       |       |       |
+| Wheatstone Bridge    |          |                |       |       |       |       |
+
+###28.2.3 Units
+Be sure to always stress the importance of units when performing practicals, especially in graphing. Using the wrong units can lead to inaccurate interpretations of graphical data. For example, when using Hooke’s Law, a spring constant is typically given in units of \(^{\text{N}}/_{\text{m}}\). But if a student is graphing mass (in g) against extension (in cm), then the slope will be in units of \(^{\text{g}}/_{\text{cm}}\). In order to get units of \(^{\text{N}}/_{\text{m}}\), one would have to first convert the slope into units of \(^{\text{kg}}/_{\text{m}}\) and then multiply by the acceleration of gravity (g = 10 \(^{\text{N}}/_{\text{kg}}\)). A problem may or may not ask for specific units in its answers, but regardless, students should always be conscious of what units they are using when making calculations.
+
+Thinking of units can also help students to understand a problem they are struggling with. If they can remember that slope is change in *y* over change in *x*, then they may be able to deduce the meaning of the slope of a graph by looking at the units of the *y* and *x* axes. The most important part of any experiment, though, is following directions. If a student can follow directions, which usually are clearly provided by the exam, and can graph data, they can easily perform any experiment. If anything, the practical exam is a test in a student’s ability to follow instructions.
+
+##28.3 Mechanics
+The mechanics section is mandatory on every exam and typically falls into three categories: Hooke’s Law, Simple Pendulum, and Principle of Moments. However, other topics are possible, as evidenced by a question on Archimedes’ Principle on the 2012 exam. These experiments use the following materials:
+
+- Metre Rules If unavailable, go to a local fundi to mass produce them.
+- Masses See Sources of Laboratory Equipment for local varieties.
+- Springs Can be bought at lab stores, or can use substitutes such as rubber bands or strips of elastic from a tailor.
+- Retort Stands May be available or can be made using a filled 1.5 L water bottle with a bamboo stick taped at the top and extending to one side.
+- Eureka Can Cut off the bottom of a 500 mL water bottle and cut a slit at the top that can be folded downward to make a curved spout.
+
+###28.3.1 Hooke’s Law
+This is the most common practical, usually involving a spring but sometimes a rubber band or piece of string. This experiment can be tricky simply because NECTA likes to switch it up every year; try to give your students as much practice with different variations. It is likely that NECTA will require a spring of known spring constant, and you will need known masses. Either can be bought at a laboratory supply store in town, but it is possible to make your own. The practical is simple to perform, but there are some common mistakes: be sure the students understand that the extension is the change in length, not the ultimate length shown on the ruler. Also, do not confuse mass and weight, as is common.
+An example question from the 2007 NECTA is shown below. After reviewing the topic with your students, let them try this on their own. You will need to repeat it several times before they are comfortable, using different springs and masses each time.
+
+**Sample Practical Question**
+The aim of this experiment is to determine the mass of a given object “B”, and the constant of the spring provided.
+
+![2007-1-alt.png](images/2007-1-alt.png)
+
+1. Set up the apparatus as shown in the figure with zero mark of the metre-rule at the top of the rule and record the scale reading by the pointer, S\(_0\).
+2. Place the object “B” and standard weight (mass) W equal to 20 g in the pan and record the new pointer reading S\(_1\). Calculate the extension, e = S\(_1\)-S\(_0\) in cm.
+3. Repeat the procedure in (ii) above with W = 40 g, 60 g, 80 g and 100 g.
+
+(a) Record your results in tabular form as shown below: Table of Results:
+
+| S\(_O\)=  |              |                              |                                    |
+| --------- | ------------ | ---------------------------- | ---------------------------------- |
+| Mass (kg) | Force, F (N) | Pointer reading S\(_1\) (cm) | Extension = S\(_1\) - S\(_O\) (cm) |
+| 0         |              |                  |                       |
+| 0.02      |              |                  |                       |
+| 0.04      |              |                  |                       |
+| 0.06      |              |                  |                       |
+| 0.08      |              |                  |                       |
+| 0.10      |              |                  |                       |
+
+(b) Plot graph of Force F (vertical axis) against extension e (horizontal axis). 
+
+(c) Use your graph to evaluate
+
+1.  mass of B
+2.  spring constant, K, given that force, extension, constant and weight of B are related as follows:
+
+$$ F = Ke - B $$
+
+**Discussion**
+This practical has two parts: the first is to find the spring constant *k*, the second is to find the mass of an unknown object *B*. By looking at the equation above, we can see that *F* is the dependent variable, *e* is the independent variable, *K* is the slope and *- B* is the intercept. When the graph is drawn, *K* and *B* can be found easily. Note that the intercept on the graph will be negative.
+
+The procedure is simply to start from a certain point on the metre rule (it does not need to be a specific number) and to add masses one at a time, measuring the distance from your starting point to the new position. This distance is called the extension, e. Be sure that you are not simply reading the metre rule, but are measuring the distance from the starting point.
+
+###28.3.2 Simple Pendulum
+With some practice, this experiment should be simple for anyone to perform. The trick comes with the math and graphing (again, an example is shown below). The materials can all be local (string, stones, ruler) except for the stopwatches (for which you should consult the materials section).
+The practical usually has one objective: to find the acceleration due to gravity, *g*. We know that the mass of a pendulum and its angle of deflection (for small angles) do not affect its period. Therefore we vary only the length *L* of the pendulum and measure its period, as shown in the following example question.
+
+**Sample Practical Question**
+The aim of this experiment is to determine the magnitude of the acceleration due to gravity, *g*. Proceed as follows:
+
+![pendulum.png](images/pendulum.png)
+
+1. Make a simple pendulum by suspending a weight on a string 10 cm long from a retort stand.
+2. Allow the pendulum to swing for twenty oscillations, using a stopwatch to record the time. Repeat this procedure for pendulum lengths of 20 cm, 30 cm, 40 cm, and 50 cm.
+3. Record your results in tabular form as shown below
+
+| Pendulum Length (m) | Time for 20 oscillations (s) | Period (equation) | (equation) |
+| ------------------- | ---------------------------- | ----------------- | ---------- |
+| 0.1                 |                              |                   |            | 
+| 0.2                 |                              |                   |            | 
+| 0.3                 |                              |                   |            | 
+| 0.4                 |                              |                   |            | 
+| 0.5                 |                              |                   |            | 
+
+4. Plot a graph of T\(^2\) (vertical axis) against Pendulum Length (horizontal axis).
+5. Calculate the slope of the graph.
+6. Use the slope to calculate the value of *g*.
+7. What are possible sources of error in this experiment?
+
+**Discussion**
+The period of a pendulum can be calculated using
+
+$$ T = 2\pi\sqrt{\frac{l}{g}} $$
+
+where *l* is the length of the pendulum, *T* is the period, and *g* is acceleration due to gravity. By squaring both sides, we get a much easier equation to graph:
+
+$$ T^2 = 4\pi\frac{l}{g} $$
+
+In this equation we see that T\(^2\) is the dependent variable (*y*-axis) and *l* is the independent variable (*x*-axis), so the slope must be
+
+$$ \mathrm{slope} = \frac{4\pi}{g} $$
+
+When the graph is complete, the value of *g* can be calculated easily.
+Many students are confused by the difference between the time for many oscillations and the period, which is the time for one oscillation. Be sure that they can change between the two easily.
+
+Note that pendulum practicals do not always require students to find *g*. Sometimes they are just required to find the relationship between *l* and *t*. Again, it is essential that students read and understand the examination question, rather than memorize past solutions, and that they have lots of practice in collecting, organizing, and graphing data from a variety of experiments.
+
+###28.3.3 Principle of Moments
+This experiment is used to verify the Principle of Moments, or equilibrium, by balancing a meter rule on a knife-edge with masses at various distances. For this experiment, students need a solid understanding of the Center of Gravity, the Moment of a force, and equilibrium. Questions can range from finding the mass of an object to asking for the mass of the metre rule. They are all variations on the same practical: using the condition of equilibrium to find mass.
+
+The following example is from the 2011 NECTA exam and asks students to find the mass of a battery using the Principle of Moments. Following is a brief explanation of the alternative practical of finding the mass of a metre rule.
+
+####Finding the Mass of an Object
+
+**Sample Practical Question**
+The aim of this experiment is to determine the mass of a given dry cell size “AA”. Proceed as follows:
+
+1. Locate and note the centre of gravity *C* of the metre rule by balancing it on the knife edge.
+2. Suspend the 50 g mass at length ‘*a*’ cm on one side of the metre rule and the 20 g mass together with the dry cell at length ‘*b*’ cm on the other side of the metre rule. Fix the 50 g mass at length 30 cm from the fulcrum and adjust the position of the 20 g mass together with the dry cell until the metre rule balances horizontally. Read and record the values of *a* and *b* as *a\(O\)* and *b*\(0\)* respectively.
+3. Draw the diagram for this experiment.
+4. By fixing a = 5 cm from fulcrum *C*, find its corresponding length *b*.
+5. Repeat the procedure in number 4 above for *a* = 10 cm, 15 cm, 20 cm and 25 cm. Tabulate your results.
+6. Draw a graph of ‘*a*’ against ‘*b*’ and calculate its slope *G*.
+7. Calculate *X* from the equation \(50 = \cfrac{b_0}{a_0}(20 + X)\)
+8. Comment on the value of \(cfrac{b_0}{a_0}\)
+9. State the principle governing this experiment.
+
+**Discussion**
+
+This practical utilizes the Principle of Moments to find the mass of a “AA” battery. Initially, a known mass of 50 g is balanced with the (battery + 20 g mass) system. Note that ‘*a*’ and ‘*b*’ are measured from the fulcrum and so students should be careful not to just read the cm mark on the ruler where each object is suspended.
+Also note that students are required to actually find the centre of gravity *C* of the ruler rather than assuming it to be the 50 cm mark. This measured value of *C* is to be used as the starting point for all future measurements of *a* and *b*.
+
+In part 7, students should recognize the equation  \(50 = \cfrac{b_0}{a_0}(20 + X)\) as coming from the Principle of Moments. Starting with
+
+$$ F_{\mathrm{clockwise}} \times d_{\mathrm{clockwise}} = F_{\mathrm{anticlockwise}} \times d_{\mathrm{anticlockwise}} $$
+
+we get 
+
+$$ (mg)_{\mathrm{clockwise}} \times d_{\mathrm{clockwise}} = (mg)_{\mathrm{anticlockwise}} \times d_{\mathrm{anticlockwise}} $$
+
+or
+
+$$ (50 \text{g})(g) \times a_0 \text{ cm} = (20 \text{g} + X \text{g})(g) \times b_0 \text{ cm} $$
+
+where \(cfrac{b_0}/{a_0}\) is the ratio of the lever arm distances for the two weights being used. If the mass of the battery X is less than 30 g, this ratio should be greater than 1, but if the mass is greater than 30 g, the ratio should be less than 1.
+
+**Finding the Mass of a Metre Rule**
+This question is less frequently seen on NECTA exams as compared to finding an unknown mass. How- ever, it utilizes the same principles of equilibrium and balancing moments, and therefore is a useful alternative practical to ensure that students understand the concept rather than memorizing solutions to one version of the problem.
+The mass of a uniform solid object, like a metre rule, is assumed to be at the center of the object. In the case of the metre rule, we can say that the center of mass is at the 50 cm mark, directly in the center. If we want it to be in equilibrium, the moments on either side of a pivot must be equal, or
+
+$$ \mathrm{\text{Clockwise moment}} = \mathrm{\text{Anticlockwise moment}} $$
+
+To find the mass of the metre rule itself, we begin by placing a known mass at one point on the metre rule. We then move the pivot to one side or another until the metre rule is perfectly balanced in equilibrium. As shown in the diagram below, the pivot will not be at the 50 cm mark.
+
+![meter-rule.png](images/meter-rule.png)
+
+If the metre rule is in equilibrium, we know that the moments must be equal, or that
+
+$$ F_{\mathrm{clockwise}} \times d_{\mathrm{clockwise}} = F_{\mathrm{anticlockwise}} \times d_{\mathrm{anticlockwise}} $$
+
+In this case, the anticlockwise force is the weight of the object, and the distance is that from the pivot to the object. The clockwise force is the weight of the metre rule, and the distance is that from the 50 cm mark (center of mass) to the pivot. Therefore our equation is:
+
+$$ W_{\mathrm{rule}} \times d_{\mathrm{rule}} = W_{\mathrm{object}} \times d_{\mathrm{object}} $$
+
+Because the weight of the object is known, and the two distances can be measured, we can easily calculate the mass and therefore the weight of the metre rule:
+
+$$ W_{\mathrm{rule}} = \frac{W_{\mathrm{object}} \times d_{\mathrm{object}}}{d_{\mathrm{rule}}} $$
+
+From this we can calculate mass of the metre rule using *F = mg*.
+
+##28.4 Light
+
+The light practical typically involves plane mirrors or glass blocks (rectangular prisms). Presumably you will have already done these practicals with the students in Form three (refraction) and Form 1 (plane mirrors), but a little practice will make the theory and execution clear, especially if they can work in groups. The materials you will need are as follows:
+
+**Cork Board** Use cardboard for this, about 0.5 to 0.75 cm thick.
+**Optical pins** Use sewing pins or syringe needles. If using syringe needs, be sure to crimp the ends so students do not prick themselves.
+**Protractors** These are cheap and students are supposed to have them anyway. Small ones come in local mathematical sets.
+**Glass Block / Rectangular Prism** A simple rectangular piece of 6 mm glass, about 8 cm by 12 cm, will work.
+**Plane Mirror** You can buy mirror glass in town in small sections for 200/= or less; it should be available in villages through the local craftsmen if they work on windows. Alternately, you can smoke one side of a piece of glass to make the other side like a mirror.
+
+###28.4.1 Plane Mirror (Reflection)
+These are not as common as the rectangular prism, but they come in a variety of questions:
+
+- Placing pins in front of a mirror at different distances and finding the distance of the image.
+- Verifying the Law of Reflection at plane mirrors.
+- Placing two mirrors at different relative angles to find the number of images produced.
+
+These are not overly complicated, but you should definitely practice with your students creating images in mirrors – they are not as accustomed to playing with mirrors as you might be.
+Given below is an example practical from the 2006 NECTA exam which asks students to find a relationship between object distance and image distance in a plane mirror.
+
+**Sample Practical Question**
+Set up the experiment as shown in the diagram below using plane mirror, soft board, three pins and a white sheet of paper.
+
+![2006-2-alt.png](images/2006-2-alt.png)
+
+Fix a white sheet of paper on the soft board. Draw a line across the width at about the middle of the white sheet (**MP**). Draw line **ONI** perpendicular to **MP**.
+Fix optical pin **O** to make **ON** = **U** = 3 cm. By using plasticine or otherwise, fix plane mirror along portion of **MP** with **O** in front of the mirror. With convenient position of eye, **E**, look into the mirror and fix optical pins **A** and **B** to be in line with image, **I**, of pin **O**.
+Measure and record **NI = V**. Repeat procedure for **U** = 6 cm, 9 cm and 12 cm.
+
+(a) Tabulate your results as follows:
+
+| U (cm) | 3    | 6    | 9    | 12   |
+| ------ | ---- | ---- | ---- | ---- |
+| V (cm) |      |      |      |      |
+
+(b) Plot graph of **U** against **V**.
+(c) Calculate slope, *m* of the graph to the nearest whole number.
+(d) State relationship between **U** and **V**.
+(e) Write equation connecting **U** and **V** using numerical value of *m* with symbols **U** and **V**.
+(f) From your equation give position of the image when object is touching the face of the mirror.
+
+**Discussion**
+
+For a plane mirror, object distance and image distance are equal. That is, **U** and **V** should be approximately equal values for this practical. Note that students should extend line **ONI** far behind the mirror since they don’t know where exactly the image **I** is going to be. The location of **I** is found at the intersection of the extended line **ONI** and the extended line **AB** connecting the two optical pins.
+
+From the graph, the slope should be found to be 1 after rounding to the nearest whole number. From this, we can see that **U = V**. When the object is touching the face of the mirror, the object distance **U** is 0, and so the image distance **V** will also be 0.
+
+###28.4.2 Rectangular Prism (Refraction)
+Students will be asked to find the refractive index and/or critical angle of the glass block by varying the angle of incidence i and measuring the corresponding angles of refraction r as described in the Mathematics section earlier. They will do this by placing two pins in front of the prism, which together form a ‘ray’ (the light ray), and then placing two more pins on the other side of the prism so that, when observed through the prism from either side, the four pins line up exactly. By drawing the lines that the pins make on the paper, the refracted ray inside the prism can be easily traced, and the refracted angle measured. An example question from the 2007 NECTA is given below.
+
+**Sample Practical Question**
+The aim of this experiment is to find the refractive index of a glass block. Proceed as follows:
+Place the given glass block in the middle of the drawing paper on the drawing board. Draw lines along the upper and lower edges of the glass block. Remove the glass block and extend the lines you have drawn. Represent the ends of these line segments as SS\(_1\) and TT\(_1\). Draw the normal NN\(_1\) to the parallel lines SS\(_1\) and TT\(1\) as shown in the figure below:
+
+![2007-2a-alt.png](images/2007-2a-alt.png)
+
+Draw five evenly spaced lines from O to represent incident rays at different angles of incidence (10&deg;, 20&deg;, 30&deg;, 40&deg;, and 50&deg; from the normal). Replace the glass block carefully between SS\(_1\) and TT\(_1\). Stick two pins P\(_1\) and P\(_2\) as shown in the figure as far apart as possible along one of the lines drawn to represent an incident ray. Locate an emergent ray by looking through the block and stick pins P\(_3\) and P\(_4\) exactly in line with images I\(_1\) and I\(_2\) of pins P\(_1\) and P\(_2\). Draw the emergent ray and repeat the procedure for all the incident rays you have drawn. Finally draw in the corresponding refracted rays.
+
+![2007-2b-alt.png](images/2007-2b-alt.png)
+
+(a) Record the angles of incidence *i* and the measured corresponding angles of refraction *r* in a table. (Your table of results should include the values of sin *i* and sin *r*.)
+(b) Plot the graph of sin *i* (vertical axis) against sin *r* (horizontal axis).
+(c) Determine the slope of the graph.
+(d) What is the refractive index of the glass block used?
+(e) Mention any sources of errors in this experiment.
+
+**Discussion**
+In this experiment, pins are used to simulate a ray of light. If all of the pins are aligned as you look through the block, they act as a single ray. It takes practice to be able to align the pins while looking through the block, so practice often with your students.
+
+Light slows down as it enters a denser medium, so in order to minimize the time required to pass through that medium, it changes direction until it moves back into its original medium. In this case, light is moving from air into glass and then back into air, so its direction changes while inside the glass, then returns to its original direction when passing back into air. This effect is called refraction and it depends on the nature of the media, in this case air and glass. Snell’s law gives us the relationship between the nature of the media and the resulting angles of incidence and refraction:
+
+$$ n_1 \times \sin{i} = n_2 \times \sin{r} $$
+
+In this experiment, the incident angle *i* is being changed and the refracted angle *r* is being measured. The refractive index of medium 1 (air) is known as 1.0, so we can use these three to find the refractive index of medium 2 (glass). On the graph, sin *i* is the dependent variable and sin *r* is the independent variable, so the equation becomes
+
+$$ \sin{i} = \sin{r} \frac{n_2}{n_1} $$
+
+In this case the slope must be \( frac{n_2}{n_1} \)
+
+The refractive index of medium air is simply 1.0, so the slope is the refractive index of medium 2.
+This practical is one of the easiest to perform with students because it does not require much preparation. Syringe needles should be readily available and glass blocks are cheap, so it is possible to have every students try this themselves many times before taking the exam.
+
+**Finding the Critical Angle**
+Some questions may ask students to find the critical angle of a glass block in addition to its refractive index. The relationship between critical angle, *C*, and refractive index, *n*, for a particular medium is given by
+
+$$ n = \frac{1}{\sin{C}} $$ 
+
+or 
+
+$$ \frac{\sin{i}}{\sin{r}} = \frac{1}{\sin{C}} $$
+
+Thus a graph of sin i against sin r can be used to find the critical angle. However, take care to note that we must first take the reciprocal of the slope, i.e.
+
+$$ \sin{C} = \frac{1}{n} $$
+
+This gives us sin*C*, so to get *C* by itself, we need to use mathematical tables. Turn to the page for Natural Sines and search the table for the 4-figure value you obtained above by taking \({1}\over{\text{slope}} \) corresponding row gives the angle in degrees and the column gives the additional minutes of the angle.
+
+For example, say we plot our graph of sin *i* (*y*-axis) against sin *r* (*x*-axis) and we calculate the slope to be 1.43. This is the refractive index of the glass block (since we can remember that glass has a refractive index of 1.5, we can do a quick mental check to make sure this makes sense). Then sinC = \({1}\over{1.43}\) = 0.6993. From the mathematical tables, we get \(C = 44^\circ 22'\) [6993 falls between 6984 (18′) and 6997 (24′), so we use the Mean Differences table to add on 4′ giving a total of 22′].
+
+Note that the method of finding *n* and *C* changes if we are instead told to graph sin *r* (*y*-axis) against sin *i* (*x*-axis). Be sure to practice both versions with students to ensure their understanding.
+
+##28.5 Electricity
+This is by far the least attempted practical on the exam, but not because it is difficult. The electricity practical, if properly set up, is one of the easiest to perform. It can appear in many different forms but will typically involve a simple circuit and some kind of variable resistor in order to measure current or EMF for different resistances. The materials you will probably need are as follows:
+
+**Connecting Wires** Use speaker wire; it is cheap and available in most villages and towns.
+**Voltmeters, Ammeters, Galvanometers** This is unavoidable; you can get full digital multimeters in town for about 10,000/=, galvanometers can be found in any lab store or can be made using a compass and insulated copper wire.
+**Batteries** Two to four D-size batteries should easily be enough for these experiments. Try to avoid Tiger brand if possible. Panasonic is highly superior in quality for roughly the same price.
+**Resistance Wire** These are used to make small resistors for the metre bridge or potentiometer. The most common type of wire to use is nichrome, which can be found in a hardware or lab store. Steel will also work, though it is less resistant and therefore harder to measure.
+**Metre Bridges** See the activity that describes the construction of a metre bridge and potentiometer. It is best to make both together as the construction is almost identical and both are used frequently.
+**Variable Resistor (Rheostat)** This is optional as it is typically only used to set a level that can be easily read by the voltmeter. However, if you are using a multimeter, you can simply change the magnitude setting on the multimeter to account for unusually low or high resistances.
+**Soldering Iron** Not required, but may be a good investment for making reliable battery connections. Using electrical tape can lead to inconsistencies. Check large towns.
+
+###28.5.1 Potentiometers
+This experiment is very simple but requires the correct materials, namely the meter bridge/potentiometer described above. A complete circuit is created with a switch (optional), power source, variable resistor and 1 m of bare resistance wire, all in series.
+
+The potentiometer itself is simple to construct; all preparation is done by the teacher, so the student simply follows the instructions as shown in the following example from the 2007 NECTA.
+
+**Sample Practical Question**
+The aim of this experiment is to determine the potential fall along a uniform resistance wire carrying a steady current. Proceed as follows:
+
+![2007-3-alt.png](images/2007-3-alt.png)
+
+Connect up the circuit as shown in the figure. Adjust the rheostat so that when the sliding contact *J* is near *B* and the key is closed the voltmeter *V* indicates an almost full scale of deflection. Do not alter the rheostat again.
+Close key *K* and make contact with *J*, so that *AJ = 10 cm*. Record the potential difference *V* volts between *A* and *J* as registered on the voltmeter.
+
+Repeat this procedure for *AJ = 20 cm, 30 cm, 50 cm,* and *70 cm.*
+
+(a) Tabulate your results for the values of *AJ* and *V*.
+(b) Plot a graph of *V* (vertical axis) against *AJ* (horizontal axis).
+(c) Calculate the slope of the graph.
+(d) What is your comment on the slope?
+(e) State any precautions on the experiment.
+
+**Discussion**
+This is a simple test of the relationship between the length of a wire and its resistance, which we know is
+
+$$ R=\frac{\rho l}{A} $$
+
+Where *l* is the length of the wire, *ρ* is the resistivity of the wire, and *A* is the cross-sectional area of the wire. We expect that as the length of wire increases, its potential difference will also increase. This is because the resistance (and therefore potential difference) of a wire is directly related to its length. The voltmeter in this experiment is measuring just the potential difference over the length of wire (10 cm, 20 cm, etc.), so if we use Ohm’s Law to say that *V = IR*, we can write:
+
+$$ V = \frac{I \rho l}{A} $$
+
+In this experiment, *I*, *ρ* and *A* are all constant, so the slope is 
+
+$$ \mathrm{slope} = \frac{I \rho}{A} $$
+
+Though it is not asked for directly in the question, we can find the resistivity, *ρ*, by measuring *I* with an ammeter/galvanometer and A with vernier calipers or a micrometer screw gauge. 
+
+###28.5.2 Metre Bridges
+A metre bridge resembles a potentiometer, except that it uses a galvanometer to measure the difference in current between two points on the circuit, hence the name “bridge.” The same materials can be used as with the potentiometer, though it is best to use small coils of resistance wire for the small resistors (between 3Ω and 20Ω is a good resistance). A galvanometer can be made easily if one is not available.
+
+![meter-bridge-2.png](images/meter-bridge-2.png)
+
+Resistors R\(_1\) and R\(_2\) have different resistances, but they should be somehow similar so that one resistor does not take all of the current (this will make it difficult to measure the length to the galvanometer). About 5Ω and 10Ω, for example, would work well.
+However, for the sake of the practical, one resistor should not be known; the objective of the practical is to find the unknown resistance. The long wire along the bottom edge is a metre of nichrome wire or other resistance wire. One terminal of the galvanometer is connected between the two resistors, and the other terminal is connected to a flying wire (or jockey) that is free to move along the length of the nichrome wire.
+The practical instructs you to move the galvanometer’s flying wire back and forth along the nichrome wire until it reads zero. At this point, we know that no current is passing through the galvanometer, so the potential difference across it is zero. This means that the current flowing through R\(_1\) is the same as that current flowing through R\(_2\), and the current flowing through the nichrome wire is constant. From this we can conclude that
+
+$$ \frac{R_1}{L_1} = \frac{R_2}{L_2} $$
+
+or that the ratio of the two resistors is equal to the ratio of distances from the flying wire to either end of the nichrome wire. The resistance of one resistor (say, R\(1\)) is known and the lengths L\(_1\) and L\(_2\) can be measured from the flying wire to either side of the nichrome wire. Using the ratio above, we can easily calculate the unknown resistance R\(_2\). An example is given below from the 2006 NECTA exam.
+
+**Sample Practical Question**
+
+You are required to determine the unknown resistance labeled *X* using a metre bridge circuit. Connect your circuit as shown below, where *R* is a resistance box, *G* is a galvanometer, *J* is a jockey and others are common circuit components.
+
+![2006-3-alt.png](images/2006-3-alt.png)
+
+**Procedure:**
+
+With *R = 1 Ω,* obtain a balance point on a metre bridge wire *AB* using a jockey *J*. Note the length *l* in centimetres. Repeat the experiment with *R* equal to *2 Ω, 4 Ω, 7 Ω* and *10 Ω.*
+
+Tabulate your results for *R*, *l* and \(^1/l\).
+
+(a)
+1. Plot a graph of R (vertical axis) against \(^1/l\) (horizontal axis).
+2. Determine the slope *S* of your graph.
+3. Using your graph, find the value of R for which \(^1/l\) = 0.02.
+
+(b) Read and record the intercept R\(_0\) on the vertical axis.
+(c) Given that, 
+
+$$ R = \cfrac{100 \text{X}}{l} - \text{X} $$
+
+Use the equation and your graph to determine the value of *X*.
+
+(d) Comment on your results in (a)(iii), (b) and (c) above.
+
+**Discussion**
+
+The procedure for this question is similar to most other wheatstone bridge problems: vary a known resistor and see how it affects the relative lengths in resistance wire required to balance the potential difference and give no current through the galvanometer. It may not be obvious at first, however, where the equation \(R = \frac{100 \text{X}}{l}\) comes from. 
+
+Starting with the balancing ratio for a wheatstone bridge, 
+
+$$ \frac{R_1}{L_1} = \frac{R_2}{L_2} $$
+
+we can solve for the unknown resistor
+
+$$ R_2 = R_1\left(\frac{L_2}{L_1}\right) $$
+
+Recall that L\(_1\) and L\(_2\) are the corresponding lengths from either end of the metre rule to the jockey (in cm), and so taking them together, we get
+
+$$ L_1 + L_2 = 100 $$
+
+Dividing both sides by L\(_1\) gives
+
+$$ 1 + \frac{L_2}{L_1} = \frac{100}{L_1} $$
+￼￼
+Then solving for \(\frac{L_2}{L_1}\)
+
+$$ \frac{L_2}{L_1} = \frac{100}{L_1} - 1 $$
+
+Now substitute this into our previous equation for R\(_2\):
+
+$$ R_2 = R_1\left(\frac{100}{L_1} - 1\right) $$
+
+Replacing R\(_2\) with *R*, L\(_1\) with *l* and R\(_1\) with X for this problem and distributing gives
+
+$$ R = \frac{100 \text{X}}{l} - \text{X} $$
+
+From this equation, we have dependent variable *R*, independent variable \(\frac{1}{l}\), slope 100X and *y*-intercept −X. So we can obtain the value of the unknown resistor X either by using the y-intercept (note the resistance is a positive value) or by taking the slope divided by 100.
+
+###28.5.3 Ohm’s Law
+
+The practical may give any kind of experiment to use or verify Ohm’s Law in a simple circuit. Finding the e.m.f. and internal resistance of cells appears frequently. Students should be very familiar with the law, as well as the factors that determine resistance in a wire and the effect of internal resistance of a cell on a circuit. Given below is an example problem taken from the 2011 NECTA exam.
+
+**Sample Practical Question**
+You are provided with an ammeter, *A*, resistance box, *R*, dry cell, *D*, a key, *K* and connecting wires. Proceed as follows:
+
+1. Connect the circuit in series.
+2. Put *R = 1 Ω* and quickly read the value of current *I* on the ammeter.
+3. Repeat procedure (b) above for *R = 2 Ω, 3 Ω, 4 Ω* and *5 Ω*. Record your results in a tabular form.
+4. Draw the circuit diagram for this experiment.
+5. Plot the graph of *R* against \(\cfrac{1}{I}\).
+6. Determine the slope of the graph.
+7. If the graph obeys the equation \(R = I − r\), then
+    (i) suggest how *E* and *r* may be evaluated from your graph. 
+    (ii) compute *E*.
+    (iii) compute *r*.
+8. State one source of error and suggest one way of minimizing it.
+9. Suggest the aim of this experiment.
+
+**Discussion**
+
+To see where the equation \(R=\cfrac{E}{I}-r\) comes from, first start with Ohm’s Law, \(V = IR\). Accounting for the internal resistance of the cell, *r*, this becomes
+
+$$ V = I(R + r) $$
+
+To solve for resistance, we divide both sides by I, which gives
+
+$$ (R + r) = \frac{V}{I} $$
+
+From this we can see that, using E as e.m.f. for this problem, 
+
+$$ R=\cfrac{E}{I}-r $$
+
+In this form, the equation resembles the classic *y = mx + c*, where *R* is the dependent variable, \(\frac{1}{I}\) the independent variable, *E* is the slope, and *r* is the *y*-intercept (note the internal resistance is a positive value).

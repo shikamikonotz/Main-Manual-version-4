@@ -1,0 +1,71 @@
+#Chapter 7: First Aid
+
+In spite of taking all necessary precautions to avoid dangerous situations in the laboratory, emergencies may still arise which require the immediate use of First Aid techniques. Listed below are various types of possible emergencies, as well as some immediate treatment guidelines to follow until professional medical attention may be given to the victim.
+
+For treatment information relating to specific chemicals, refer to the section on Dangerous Chemicals (p. 37).
+
+##7.1 Cuts
+
+1. Immediately wash cuts with lots of water to minimize chemicals entering the blood stream.
+2. Then wash with soap to kill any bacteria that may have entered the wound.
+3. To stop bleeding, apply pressure to the cut and raise it above the heart. If the victim is unable to apply pressure him/herself, remember to put something (gloves, a plastic bag, etc.) between your skin and their blood.
+4. If the cut is deep (might require stitches) seek medical attention. Make sure that the doctor sees how deep the wound really is – you might do such a good job cleaning the cut that the doctor will not understand how serious it is.
+
+##7.2 Eyes
+1. If chemicals get in the eye, immediately wash with lots of water.
+2. Keep washing for fifteen minutes.
+3. Remind the victim that fifteen minutes is a short time compared to blindness for the rest of life. Even in the middle of a national exam.
+
+##7.3 First and Second Degree Burns
+1. Skin red or blistered but no black char.
+2. Immediately apply water.
+3. Continue to keep the damaged skin in contact with water for 5-15 minutes, depending on the severity of the burn.
+
+##7.4 Third Degree Burns
+1. Skin is charred; there may be no pain.
+2. Do not apply water.
+3. Do not apply oil.
+4. Do not removed fused clothing.
+5. Cover the burn with a clean cloth and go to a hospital.
+6. Ensure that the victim drinks plenty of water (one or more liters) to prevent dehydration.
+
+
+##7.5 Chemical Burns
+1. Treat chemical burns by neutralizing the chemical.
+2. For acid burns, immediately apply a dilute solution of a weak base (e.g. sodium hydrogen carbon- ate).
+3. For base burns, immediately apply a dilute solution of a weak acid (e.g. citric acid, ethanoic acid). Have these solutions prepared and waiting in bottles in the lab.
+
+##7.6 Ingestion
+1. If a student ingests (eats or drinks) the following, induce vomiting:
+    - Barium (chloride, hydroxide, or nitrate)
+    - Lead (carbonate, chloride, nitrate, oxide)
+    - Silver (nitrate)
+    - Potassium hexacyanoferrate (ferr[i/o]cyanide) 
+    - Ammonium ethandioate (oxylate)
+    - Anything with mercury (see list above), but mercury compounds should just never be used.
+
+2. To induce vomiting:
+    - Have the student put fingers into his/her throat
+    - Have the student drink a strong solution of salt water (use food salt, not lab chemicals)
+
+3. Do not induce vomiting if a student ingests any organic chemical, acid, base, or strong oxidizing agent.
+    - These chemicals do most of their damage to the esophagus and the only thing worse than passing once is passing twice.
+    - Organic chemicals may be aspirated into the lungs if vomited, causing a sometimes fatal pneumonia-like condition.
+
+##7.7 Fainting
+1. If a student passes out (faints), feels dizzy, has a headache, etc., move him/her outside until fully recovered.
+2. Check unconscious students for breath and a pulse.
+3. Perform CPR if necessary and you know how.
+4. Generally, these ailments suggest that harmful gases are present in the lab – find out what is producing them and stop it. Kerosene stoves, for example, may emit enough fumes to have this effect.
+5. See Sources of Heat in the Materials section for alternatives.
+6. Chemicals reacting in drain pipes can also emit harmful gases. See Waste Disposal.
+
+##7.8 Electrocution
+If someone is being electrocuted (their body is in contact with a live wire):
+
+1. First disconnect the power source. Turn off the switch or disconnect the batteries.
+2. If that is not possible, use a non-conducting object, like a wood stick or branch, to move them away from the source of electricity.
+3. Unless there is a lot of water around, the sole of your shoe is non-conducting.
+
+##7.9 Seizure
+1. If a student experiences a seizure, move everything away from him/her and then let the body finish moving on its own.

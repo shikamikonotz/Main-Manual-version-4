@@ -1,0 +1,1082 @@
+#Chapter 27: Chemistry Practicals
+
+##27.1 Introduction to Chemistry Practicals 
+
+###27.1.1 Format
+The format of the Chemistry practical exam was revised in 2011 to keep up with the 2007 updated syllabus. As such, there will be no further Alternative to Practical exams, pending approval from the Ministry of Education. Prior to 2011, students only had to answer 2 of the 3 questions, including Question 1.
+
+As of now, the Chemistry practical has 3 questions and students must answer all of them. Question 1 is on Volumetric Analysis and Laboratory Techniques and Safety. Question 2 is taken from Ionic Theory and Electrolysis/Chemical Kinetics, Equilibrium and Energy. Question 3 is on Qualitative Analysis.
+
+Question 1 is worth 20 marks, while Questions 2 and 3 carry 15 marks each. Students have 21 hours to complete the exam.
+
+Students are allowed to use Qualitative Analysis guidesheet pamphlets in the examination room.
+
+###Chemistry 1 Theory Format
+
+The theory portion of the Chemistry exam comprises 100 marks, while the practical carries 50 marks. A student’s final grade for Chemistry is thus found by taking her total marks from both exams out of 150. The theory exam for Chemistry contains 3 sections. Section A has 2 questions and is worth 20 marks - Question 1 is 10 multiple choice and Question 2 is 10 matching. Section B has 9 short answer questions, each having two items, for a total of 54 marks. Section C has 2 essay questions without items for a total of 26 marks. Students are required to answer all questions.
+
+**Note** This information is current as of the time of publication of this manual. Updated information may be obtained by contacting the Ministry of Education.
+
+###27.1.2 Notes for Teachers
+
+**NECTA Advance Instructions**
+There are two sets of advance instructions. One set of advance instructions are given to teachers at least one month before the date of the exam. These instructions contain the list of apparatus, chemicals, and other materials required for preparing the Chemistry practical questions. The instructions also give suggestions on the amount of chemicals that should be available for each candidate to use.
+
+The second set of instructions should be given 24 hours before the time of the practical. It includes which chemicals and apparatus should be given to each candidate (or shared among candidates) for each of the three practical questions. These instructions also state how to label each solution and/or compound.
+
+The bottom of the 24 Hours Advance Instructions also states that the Laboratory Technician or Head of Chemistry Department should perform some of the experiments immediately after the last session of the examination. It is only required to perform the titration and chemical kinetics experiments. This is required to be done for every school and is used as a reference for the markers in case the water, chemicals, and apparatus are not the same at every school. This is enclosed and submitted together with the students’ test papers and may be used as a marking scheme. It is also advised that any notes, comments or concerns for the markers be included at this time.
+
+###27.1.3 Common Practicals
+**Volumetric Analysis** determine the concentration of a solution of a known chemical by reacting it with a known concentration of another solution
+
+**Qualitative Analysis** systematically identify an unknown salt through a series of chemical tests 
+
+**Chemical Kinetics and Equilibrium** observe changes in chemical reaction rates by varying condi- tions such as temperature and concentration.
+
+**Note** These are the most common practicals, but they are not necessarily the only practicals that can occur on a NECTA exam. Although the updated exam format lists Questions 1 and 3 as Volumetric Analysis and Qualitative Analysis respectively, Question 2 can come from a variety of topics which may not yet have been used in older past papers. Be sure to regularly check the most recent past NECTA papers to get a good idea of the types of questions to expect.
+
+##27.2 Volumetric Analysis
+This section contains the following:
+
+- Volumetric Analysis Theory
+- Substituting Chemicals in Volumetric Analysis
+- Properties of Indicators
+- Traditional Volumetric Analysis Technique
+- Sample Practical Question
+
+###27.2.1 Volumetric Analysis Theory
+
+Volumetric Analysis is a method to find the concentration (molarity) of a solution of a known chemical by comparing it with the known concentration of a solution of another chemical known to react with the first.
+
+For example, to find the concentration of a solution of citric acid, one might use a 0.1 M solution of sodium hydroxide because sodium hydroxide is known to react with citric acid.
+
+The most common kinds of volumetric analysis are for acid-base reactions and oxidation-reduction reactions. Acid-base reactions require use of an indicator, a chemical that changes color at a known pH. Some oxidation-reduction reactions require an indicator, often starch solution, although many are self-indicating, (one of the chemicals itself has a color).
+
+See also the sections on Preparation of Solutions (p. 63), Preparation of Solutions Without a Balance (p. 65) and Relative Standardization (p. 66) in Laboratory Techniques.
+
+The process of volumetric analysis is often called _titration._
+
+##27.2.2 Substituting Chemicals in Volumetric Analysis
+
+**Theory**
+
+The volumetric analysis practical exercises sometimes call for expensive chemicals, for example potassium hydroxide or oxalic acid. As the purpose of exercises and exams is to train or test the ability of the students and not the resources of the school, it is possible to use different chemicals as long as the solutions are calibrated to give equivalent results. For example, if the instructions call for a potassium hydroxide solution, you can use sodium hydroxide to prepare this solution. It will not affect the results of the practical – if you make the correct calibration. How to calibrate solutions when substituting chemicals is the subject of this section.
+
+Technically, only two chemicals are required to perform any volumetric analysis practical: one acid and one base. The least expensive options are sulfuric acid, as battery acid, and sodium hydroxide, as caustic soda. To substitute one chemical for another in volumetric analysis, the resulting solution must have the same normality (N).
+
+- For all monoprotic acids (HCl, ethanoic acid), the normality is the molarity. 
+     _Example: 0.1 M ethanoic acid = 0.1 N ethanoic acid_
+- For diprotic acids (sulfuric acid, ethandiotic acid), the normality is twice the molarity, because each molecule of diprotic acid brings two molecules of H\(^+\). 
+     _Example: 0.5 M sulfuric acid = 1.0 N sulfuric acid_
+- For the hydroxides and hydrogen carbonates used in ordinary level (NaOH, KOH, NaHCO\(_3\), the normality is the molarity. 
+     _Example: 0.08 M KOH = 0.08 N KOH_
+- For the carbonates most commonly used (Na\(_2\)CO\(_3\), Na\(_2\)CO\(_3\)&middot;10H\(_2\)O, K\(_2\)CO\(_3\), the normality is twice the molarity. 
+     _Example: 0.4 M Na\(_2\)CO\(_3\) = 0.8 N Na\(_2\)CO\(_3\)_
+
+**Substitution Calculations**
+
+When instructions describe solutions in terms of molarity, calculating the molarity of the substitution is relatively simple. For example, suppose we want to use sulfuric acid to make a 0.2 M solution of ethanoic acid. 0.2 M ethanoic acid is 0.2 N ethanoic acid which will titrate the same as 0.2 N sulfuric acid. 0.2 N sulfuric acid is 0.1 M sulfuric acid, and thus we need to prepare 0.1 M sulfuric acid.
+
+When instructions describe solutions in terms of concentration \(^\text{g}/_\text{L}\), we just need to add an extra conversion step. For example, suppose we want to use sodium hydroxide to make a 14.3 \(^\text{g}/_\text{L}\) solution of sodium carbonate decahydrate. 14.3 \(^\text{g}/_\text{L}\) sodium carboante decahydrate is 0.05 M sodium carbonate decahydrate which is 0.1 N sodium carbonate decahydrate. This will titrate the same as 0.1 N sodium hydroxide, which is 0.1 M sodium hydroxide or 4 \(^\text{g}/_\text{L}\) sodium hydroxide, and thus we need to prepare 4 \(^\text{g}/_\text{L}\) sodium hydroxide to have a solution that will titrate identically to 14.3 \(^\text{g}/_\text{L}\) sodium carbonate decahydrate.
+
+**Common Substitutions**
+
+To simplify future calculations, we have prepared general conversions for the most common chemicals used in volumetric analysis. Remember to check all final solutions with relative standardization to ensure that they indeed give the correct results.
+
+<table style="undefined;table-layout: fixed; width: 964px">
+<colgroup>
+<col style="width: 113px">
+<col style="width: 89px">
+<col style="width: 298px">
+<col style="width: 293px">
+<col style="width: 171px">
+</colgroup>
+  <tr>
+    <th>Required Chemical</th>
+    <th>Low Cost Alternative</th>
+    <th>Substitution Method</th>
+    <th>Molarity Example</th>
+    <th>ConcentrationExample</th>
+  </tr>
+  <tr>
+    <td>Hydrochloric Acid</td>
+    <td>Sulfuric Acid (Battery Acid)</td>
+    <td>If you are required to prepare an X molarity solution of HCl, prepane a X×0.5 molarity solution of battery acid</td>
+    <td>The instructions call for 0.12 M HCl. Instead, prepare 0.06 M sulfuric acid</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Ethanoic (Acetic) Acid</td>
+    <td>Sulfuric Acid (Battery Acid)</td>
+    <td>If you are required to prepare an M molarity solution of ethanoic acid, prepare a M×0.5 molarity solution of sulfuric acid</td>
+    <td>The instructions call for 0.10 M ethanoic acid. Prepare 0.075 M sulfuric acid. </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Ethandioic (Oxalic) Acid dehydrate </td>
+    <td>Sulfuric Acid (Battery Acid)</td>
+    <td>If you are required to prepare an M molarity solution of ethandioic acid, prepare an M molarity solution of sulfuric acid. If you are required to prepare a C concentration solution of ethandioic acid, prepare a C/126 molarity solution of sulfuric acid.</td>
+    <td>The instructions call for 0.075 M ethandioic acid. Prepare 0.075 M sulfuric acid. </td>
+    <td>The instructions call for 6.3 \(g /L\) ethandioic acid. Prepare 0.05 M sulfuric acid.</td>
+  </tr>
+  <tr>
+    <td>Potassium Hydroxide</td>
+    <td>Sodium Hydroxide (Caustic Soda)</td>
+    <td>For M molarity potassium hydroxide, make M molarity sodium hydroxide. For C concentration potassium hydroxide, make C×40/56 concentration sodium hydroxide.</td>
+    <td>The instructions call for 0.1 M potassium hydroxide. Just prepare 0.1 M sodium hydroxide. </td>
+    <td>The instructions call for 2.8 g/L potassium hydroxide. Prepare 2 g/L sodium hydroxide.</td>
+  </tr>
+  <tr>
+    <td>Anhydrous Sodium Carbonate</td>
+    <td>Sodium Carbonate Dehydrate (Soda Ash)</td>
+    <td>For M molarity anhydrous sodium carbonate, make M molarity sodium carbonate decahydrate. For C concentration anhydrous sodium carbonate, make C×286/106 sodium carbonate decahydrate.</td>
+    <td>The instructions call for 0.09 M anhydrous sodium carbonate. Make 0.09 M sodium carbonate decahydrate. </td>
+    <td>The instructions call for<br>5.3 g/L anhydrous sodium carbonate. Make 14.3 g/L sodium carbonate decahydrate.</td>
+  </tr>
+  <tr>
+    <td>Anhydrous Sodium Carbonate</td>
+    <td>Sodium Hydroxide (caustic soda)</td>
+    <td>For M molarity anhydrous sodium carbonate, make M×2 molarity sodium hydroxide. For C concentration anhydrous sodium carbonate, make C×2×40/106 sodium hydroxide.</td>
+    <td>The instructions call for 0.09 M anhydrous sodium carbonate. Make 0.18 M sodium hydroxide. </td>
+    <td>The instructions call for 5.3 g/L anhydrous sodium carbonate. 4.0 g/L sodium hydroxide.</td>
+  </tr>
+  <tr>
+    <td>Sodium Carbonate Decahydrate</td>
+    <td>Sodium Hydroxide (caustic soda)</td>
+    <td>For M molarity sodium carbonate ecahydrate, make M×2 molarity sodium hydroxide. For C concentration sodium carbonate decahydrate, make C×2 ×40 /286 sodium hydroxide.</td>
+    <td>The instructions call for 0.09 M sodium carbonate decahydrate. Make 0.18 M sodium hydroxide. </td>
+    <td>The instructions call for 14.3 g/L sodium carbonate decahydrate. Make 4.0 g/L sodium hydroxide. </td>
+  </tr>
+  <tr>
+    <td>Anhydrous Potassium Carbonate</td>
+    <td>Sodium Carbonate decahydrate (soda ash)</td>
+    <td>For M molarity potassium carbonate, make M molarity sodium carbonate decahydrate. For C concentration potassium carbonate, make C×286/122 concentration sodium carbonate.</td>
+    <td>The instructions call for 0.08 M anhydrous potassium carbonate. Prepare 0.08 M sodium carbonate decahydrate. </td>
+    <td>The instructions call for 6.1 g/L anhydrous potassium carbonate. Prepare 14.3 g/L sodium carbonate decahydrate.</td>
+  </tr>
+  <tr>
+    <td>Anhydrous Potassium Carbonate</td>
+    <td>Sodium Hydroxide (caustic soda)</td>
+    <td>For M molarity potassium carbonate, make M×2 molarity sodium hydroxide. For C concentration potassium carbonate, make C×2 ×40 /122 concentration sodium hydroxide.</td>
+    <td>The instructions call for 0.08 M anhydrous potassium carbonate. Prepare 0.16 M sodium hydroxide. </td>
+    <td>The instructions call for 6.1 g/L anhydrous potassium carbonate. Prepare 4.0 g/L sodium hydroxide.</td>
+  </tr>
+</table>
+
+**Additional Notes**
+
+- In volumetric analysis experiments with two indicators, it is not possible to substitute one chemical for another as the acid/base dissociation constant is critical and specific for each chemical. It is still possible to substitute sodium carbonate decahydrate for anhydrous sodium carbonate with the above conversion.
+- These substitutions only work for volumetric analysis. In qualitative analysis, the nature of the chemical matters. If the instructions call for sodium carbonate, you cannot provide sodium hy- droxide and expect the students to get the right answer!
+
+###27.2.3 Properties of Indicators
+
+**Acid-base Indicators**
+These indicators are chemicals that change colors in a specific pH range, which makes them suited to use in acid-base reactions. When the pH of changes from low pH to high pH or from high to low, the color of the solution changes.
+Four common acid-base indicators are methyl orange (**MO**), phenolphthalein (**POP**), bromothymol blue (**BB**), and universal indicator (**U**)
+
+- Methyl Orange, **MO**, is always used when titrating a strong acid against a weak base. The pH range of **MO** is 4.0 - 6.0 and thus no color change is observed until the base is completely neutralized. If you use **MO** with a weak acid, the color might start to change before completely neutralizing the acid.
+- Phenolphthalein, **POP**, is always used when titrating a weak acid against a strong base. The pH range of **POP** is 8.3 - 10.0, and thus no color change is observed until the weak acid is completely neutralized. If you use **POP** with a weak base, the color might start to change before completely neutralizing the base.
+- Bromothymol Blue, **BB**, is used in the same manner as methyl orange.
+- Universal indicator, **U**, is not suitable for volumetric analysis involving either weak acids or bases as it changes color continuously rather than in a limited pH range. It is very useful for tracking the pH continuously over a titration, perhaps by performing two titrations side by side, one with a standard indicator and another with universal indicator.
+
+Any indicator can be used when titrating a strong acid against a strong base. Universal indicator, however, will not produce very accurate results. No indicator is suitable for titrating a weak acid against a weak base. In some experiments, more than one indicator may be used in the same flask, for example when titrating a mixture of strong and weak acids or bases.
+
+**Colors of Indicators** The colors of the above indicators in acid and base are:
+
+| Indicator | Acid | Neutral | Base |  
+| --------- | ----- | ----- | ----- |  
+| Methyl Orange | Red | Orange | Yellow |  
+| Phenolphthalein | Colorless | Colorless | Pink |  
+| Bromothymol Blue | Yellow | Blue | Blue |  
+| Universal Indicator | Red, Orange, Yellow | Yellow/Green | Green, Blue, Indigo |  
+
+Titration is finished when the indicator starts a permanent color change. For example, when methyl orange turns orange, the titration is finished. If students wait until methyl orange turns pink (or yellow) they have overshot the endpoint of the titration, and their volume will be incorrect. Likewise, POP indicates that the titration is finished when it turns light pink. If students wait until they have an intensely pink solution, they will use too much base and get the wrong answer.
+
+Note that light pink **POP** solutions may turn colorless if left for a few minutes. This is due to carbon dioxide in the air reacting to neutralize bases in solution.
+
+**Note on technique** Students should use as little acid-base indicator as possible. This is because some acid or base is required to react with the indicator so that it changes color. If a lot of indicator is used, students will add more acid or base than they need.
+
+**Other Indicators**
+Starch indicator is used in oxidation-reduction titrations involving iodine. This is because iodine forms an intense blue to black colored complex in the presence of starch. Thus starch allows a very sensitive assessment of the presence of iodine in a solution.
+
+It is important to add the starch indicator close to the end point when there is an acid present. The acid will cleave the starch and that will prevent the starch from working properly. Students using starch should use a pilot run to get an idea when to add the starch indicator.
+
+**Preparation of Indicators**
+
+- **Methyl orange (MO):** if you have a balance, weigh out about 1 g of methyl orange powder and dissolve it in about 1 L of water. Store the solution in a plastic water bottle with a screw on cap and it will keep for years. If it gets thick and cloudy, add a bit more water and shake. If you do not have a balance, add half of a small tea spoon to a liter of water.
+- **Phenolphthalein (POP):** Dissolve about 0.2 g of phenolphthalein powder in 100 mL of pure ethanol; then add 100 mL water with constant stirring. If you use much more water than ethanol, solid phenolphthalein will precipitate. Store **POP** in a plastic water bottle with a screw on cap. We recommend making **POP** in smaller quantities than **MO** as it does not keep as well, mostly due to the evaporation of ethanol. If the solution develops a precipitate, add a bit of ethanol and shake. We do not recommend using purple methylated spirits as a source of ethanol for making **POP**. You can distill purple spirits to make clear spirits. For clear methylated spirits, use 140 mL of spirit and 60ml of water, as spirits generally are already 30% water.
+- **Starch:** place about 1 g of starch in 10 mL of water in a test tube. Mix well. Pour this suspension into 100 mL of boiling water and continue to boil for one minute or so. Alternatively, use the water leftover after boiling pasta or potatoes. If this is too concentrated, dilute it with regular water.
+- *Note:* The authors have never prepared bromothymol blue or universal indicator from powder, but suspect their preparation is similar to methyl orange.
+
+Note that the exact mass of indicator used is not very important. You just need to use enough so that the color is clearly visible. Students use very little indicator in each titration, and a liter of indicator solution should last you a long time.
+
+###27.2.4 Traditional Volumetric Analysis Technique
+
+The Volumetric Analysis practical consists of an acid that is being titrated acid against a base until neutralization, in order to determine the concentration of the base.
+
+On NECTA practical exams, titrations are done four times: a pilot followed by three trials. The pilot is done quickly and is used to determine the approximate volume needed for neutralization to speed up the following trials.
+
+Ex: If the pilot gives an end point of 25.00 mL, then for the three subsequent trials, 20.00 mL can quickly be added from the burette. Then begin to add solution slowly until the endpoint is reached.
+
+Results from the pilot are not accurate and are not included when doing calculations. Students should also know that not all three trials are always used in calculating the average volume used. Values of trials must be consistent and within ± 02 cm\(^3\) of each other to be valid for average volume determination.
+
+**Volumetric Analysis Using Burettes Preparation**
+
+1. After washing Burettes thoroughly, rinse the Burette with 3 mL of the acidic solution that will be used during the titration (Acid usually goes in the Burette).
+     - Cover the entire inside surface of the Burette.
+     - Discard 3 mL of solution properly when finished
+     - Why? This prevents dilution of acid by water.
+
+2. After washing the flask thoroughly, rinse the flask with 3 mL of solution that will be used during the titration (Base usually goes in the flask).
+     - Cover the entire inside surface of the flask.
+     - Discard 3 mL of solution properly when finished.
+
+**Procedure**
+
+1. Clean the burette with water.
+2. Rise the burette with the acid that will be used for the titration.
+3. Fill the burette with the acid. Let a little run out through the stopcock.
+4. Record the initial burette reading.
+5. Use a syringe to transfer the base solution into a conical flask.
+6. Record the volume moved by the syringe.
+7. If you are using an indicator, add a few drops to the flask.
+8. Slowly add the acid from the burette to the flask. Swirl the flask as you titrate. Be careful. Avoid acid drops landing on the sides of the flask.
+9. Stop titration when the slight color change become permanent. This is the end point.
+10. Record final reading of the burette.
+11. Repeat for remaining titrations.
+
+**Notes**
+Burettes tell you the volume of solution used, not the volume present.
+ 
+- Ex: Initial Reading - 4.23 mL
+- Final Reading - 20.57 mL
+- You used 16.34 mL of acid during the titration.
+
+Reading Measurements:
+
+- Always read burettes at eye level.
+- Always read from the bottom of the meniscus. In a plastic apparatus, there is often no meniscus.
+- Burettes are accurate to 2 decimal places. Students should estimate to the nearest 0.01 mL
+- For Acid-Base indicators: The less indicator used, the better. To change color, the indicator must react with fluid in the burette. If you add too much, it uses more chemical than necessary for neutralization, creating an indicator error.
+- For starch indicators: use 1 mL. Starch is not titrated; indicators are, and you must use more to get a good color change.
+
+**Volumetric Analysis Without Using Burettes**
+
+Use plastic syringes instead of burettes.
+
+As of late 2010, the most precise syringes available are the 10 mL NeoJect brand - you should use these (A titration with 2 plastic syringes is more accurate than a titration with a burette and a cheap glass pipette).
+
+If use of these syringes is new to you, read Use of a Plastic Syringe to Measure Volume (p. 58) before continuing.
+
+If students are using syringes in place of burettes, they require two syringes for the practical: one to use as a burette (for acid) and one to use as a pipette to transfer base into the flask. It may be useful to label the different syringes “burette” /“flask” or “acid”/“base”.
+
+**Preparation (without burettes)**
+
+1. Clean the “pipette” syringe with water.
+2. Rinse the “pipette” syringe with base solution that will be put into the flask.
+3. Use the “pipette” syringe to transfer base into the flask. To do this accurately, first add 1 mL of air to the syringe and then suck up the base beyond the desired amount. Push back the plunger until the top of the fluid is at the required volume.
+4. Record the total volume transferred (multiple transfers with the 1 syringe may be required to react the desired volume).
+5. If you are using indicator, add a few drops to the flask.
+6. Clean the “burette” syringe with water.
+7. Rinse the “burette” syringe with the acid solution that will be used for titration.
+
+**Procedure (without burettes)**
+
+1. Add 1 mL of air to the syringe and suck up the acid beyond the 10 mL mark. Slowly push back the plunger until the top of the fluid is exactly at the 10 mL line.
+2. Slowly add acid from the “burette” syringe into the flask. Swirl the flask as you titrate. Be careful. Make sure the acid lands in the base, avoid acid drops landing on the sides of the flask.
+3. Stop titration when the slight color change become permanent. This is the end point.
+4. Often, more than 10 mL of acid will need to be used. This is not a problem. Once 10 mL is finished in the syringe, students should just fill it up again and continue the titration.
+5. Record final volume of acid transferred by the “burette” syringe.
+
+**Notes for when using syringes in place of burettes**
+
+- Students must record their results in a manner that is consistent with traditional reporting.
+- On rough paper, students should calculate the volume of solutions used during titration. If they only used one syringe and the initial volume in the syringe was 10.00 mL and the final volume was 2.55 mL, the student used 7.45 mL of solution. If they used two full syringes and then part of a third (which had the initial reading of 10.00 mL and a final reading of 4.65 mL), the student used 5.35 mL + 10.00 mL + 10.00 mL = 25.35 mL total.
+- In the table of results, the student should write 25.35 mL for Volume Used. If they had used a burette, the initial reading would have been 0.00 mL and the final reading would have been 25.35 mL. This is what they should write in their table of results.
+- When using a syringe as a burette, students should write 0.00 mL as the Initial Volume and then, for the Final Volume, they should write the number they calculated for the total volume used.
+
+###27.2.5 Common Calculations in Titration Experiments
+All NECTA practical experiments require students to determine some unknown in the titration procedure. Common calculations that the problem statement will ask for include:
+
+- Concentration (molarity) of an acid or base
+- Relative atomic mass of unknown elements in an acid or base 
+- Percentage purity of a substance
+- Amount of water of crystallization in a substance
+
+**Concentration of an Acid or Base**
+The problem statement may have the student find either the unknown molarity (moles per litre) or concentration (grams per litre) of the acid or the base. As an example, the following steps are used to calculate the unknown concentration of an acid:
+
+1. _Calculate the average volume of acid used._
+    Remember to not use the pilot trial or any trials that are not within ± 0.2 cm\(^3\) of each other.
+2. _Calculate the number of moles of the base used._
+$$ \text{Molarity} = \frac{\text{number of moles}}{\text{volume of solution}} $$
+These values can usually be taken from the solutions listed on the test paper. Also be sure that the units of volume of solution are in litres or dm\(^3\).
+
+3. _Write a balanced chemical equation for the reaction._
+     The chemical equation can also be written as an ionic equation.
+
+4. _Calculate the number of moles of acid used from the mole ratio taken from the balanced chemical equation._
+    Both ionic and full formulae equations give the same mole ratio.
+
+5. _Work out the molar concentration of the acid._
+
+The molar concentration can be determined using the calculated number of moles of acid (found in the previous step) and the average volume of acid used (found in step 1), using the equation in step 2.
+
+Alternatively, the following equation can be used:
+$$\cfrac{C_AV_A}{C_BV_B} = \cfrac{n_A}{n_B}$$
+where:
+
+C\(_A\) is the molar concentration of the acid.
+V\(_A\) is the volume of the acid used.
+n\(_A\) is the number of moles of the acid used.
+C\(_B\) is the molar concentration of the base.
+V\(_B\) is the volume of the base used.
+n\(_B\) is the number of moles of the base used.
+
+Similar steps are used to calculate the unknown concentration of a base. Repeat steps 1 through 5, but with the following changes:
+
+- Step 2: Calculate the moles of the acid used.
+- Step 4: Calculate the moles of the base from the mole ratio.
+- Step 5: Find the molar concentration of the base, either using the molarity calculation or the equation above.
+
+**Relative Atomic Mass of Unknown Elements**
+
+Atomic mass of unknown elements, as well as molecular mass of compounds with unknown elements may need to be calculated in the problem statement. Most unknown elements will be a metal of a basic compound. As an example, the following steps are used to calculate the relative atomic mass of an unknown metal element of a metal carbonate:
+
+- _Calculate the average volume of acid used._
+    Remember to not use the pilot trial or any trials that are not within ± 0.2 cm\(^3\) of each other.
+- _Calculate the number of moles of the acid used._
+    These values can usually be taken from the solutions listed on the test paper. Also be sure that the units of volume of solution are in litres or dm\(^3\).
+- _Write a balanced chemical equation for the reaction to get the mole ratio._
+- _Determine the number of moles of the metal carbonate used._ This can be taken from the balanced chemical equation.
+- _Work out the molecular concentration of the metal carbonate solution._ Use the formula as shown in step 2.
+- _Calculate the mass of the metal carbonate in one litre of solution._ This can be done using the following ratio:
+
+$$ \frac{\text{mass given in problem statement}}{\text{volume given in problem statement}} = \frac{\text{mass of unknown metal}}{\text{one litre}} $$
+
+Make sure the units correspond because sometimes the problem statement will be expressed in dm\(^3\) or cm\(^3\).
+
+- Using the molarity of the solution and the mass of the metal carbonate per litre of solution, work out the relative molecular mass of the metal carbonate.
+
+The following equation can be used to calculate molar mass:
+
+$$ \text{molar mass} = \frac{\text{mass per litre}}{\text{molarity}} $$
+
+- Calculate the relative atomic mass of the metal based on the formula of the carbonate.
+
+Use the total molar mass of the compound found in step 7 and the molar mass of each element in the compound to find the molar mass of the unknown element. Some problem statements may require the student to identify the unknown element from its molecular mass.
+
+Similar steps should be followed if the unknown element is of an acidic compound. Just replace the steps that include the metal carbonate solution with the acid solution.
+
+**Percentage Purity of a Substance**
+
+Problem statements that require the student to find percentage purity will usually contain one solution in the list provided that specifically states it is impure or that it is a hydrated compound (seems very low in concentration). Again, it is possible to determine percentage purity of an acid or a base. As an example, the following steps are used to calculate the percentage purity of a base:
+
+- _Determine the average volume of the acid used._
+    Remember to not use the pilot trial or any trials that are not within ± 0.2 cm\(^3\) of each other.
+- _Calculate the number of moles of the acid used._
+
+$$ \text{Molarity} = \frac{\text{number of moles}}{\text{volume of solution}} $$
+
+These values can usually be taken from the solutions listed on the test paper. Also be sure that the units of volume of solution are in litres or dm\(^3\).
+
+- _Write a balanced chemical equation for the reaction to get the mole ratio._
+- _Determine the number of moles of base used in the reaction._ This can be taken from the mole ratio from the previous step.
+- _Calculate the mass of the base used in the reaction._
+
+    The mass can be determined by the number of moles calculated and the following relationship:
+	
+$$ \text{mass} = \text{number of moles} \times \text{molar mass} $$
+
+- _Work out the percentage purity of the base solution sample._
+    The following equation for percentage purity should be used:
+	
+$$ \text{percentage purity} = \frac{\text{mass of pure substance in sample}}{\text{mass of the impure sample}} \times 100\% $$
+
+It is very important to note that when calculating percentage purity, the amount of volume in the concentration of base must be equal to the volume of concentration of acid used. For example, if there was 0.424 g of sodium carbonate in 25 cm\(^3\) of solution reacting with a 250 cm\(^3\) solution of acid, the mass of sodium carbonate must be converted to know the mass in 250 cm\(^3\). Therefore, 250 cm\(^3\) of base solution will contain 4.24 g, not 0.424 g.
+
+The value for the mass of the impure sample comes from the list of provided solutions and the mass of the pure sample will come from the calculations.
+
+Similar steps can be followed to find the percentage purity of a the acid solution sample. Instead of finding the mass of the base, use the calculated moles of acid used to find the mass of acid in the actual reaction.
+
+**Amount of Water of Crystallization**
+
+Water of crystallization is the water that is bound within crystals of substances. Most hydrated substances and solutions contain water of crystallization. Problem statements that ask students to determine the amount of water of crystallization will have a solution with a formula similar to [base] &middot; XH\(_2\)O, and they have to solve for X. As an example, the following steps are used to determine the number of molecules of water of crystallization in a hydrated base compound sample:
+
+- _Calculate the average volume of the acid used._
+    Remember to not use the pilot trial or any trials that are not within ± 0.2 cm\(^3\) of each other.
+- _Calculate the number of moles of the acid used._
+
+$$ \text{Molarity} = \frac{\text{number of moles}}{\text{volume of solution}} $$
+
+These values can usually be taken from the solutions listed on the test paper. Also be sure that the units of volume of solution are in litres or dm\(^3\).
+
+- _Write a balanced chemical equation for the reaction to get the mole ratio._
+- _Calculate the number of moles of the base used._
+    This can be determined from the mole ratio in the previous step.
+- _Determine the molar concentration of the base._
+
+The molarity can be calculated using the volume of base used in the experiment and the equation from step 2.
+
+- _Calculate the relative molecular mass (R.M.M.) of the base compound._ The following equation can be used to calculate molar mass:
+
+$$ \text{molar mass} = \frac{\text{mass per litre}}{\text{molarity}} $$
+
+- _Determine the number of molecules of water of crystallization in the sample._
+
+Using the relative atomic masses of the various atoms in the base compound, subtract the mass of the compound from the total mass of the hydrated compound. Water molecules always have a total molecular mass of 18 \(^\text{g}/_\text{mol}\), so the remaining mass will be composed of multiples of 18. For example, if a hydrated carbonate (Na\(_2\)CO\(_3\)&middot;XH\(_2\)O) has a total mass of 286 g, the molecules of water can be determined as follows:
+
+\(2\text{Na} + \text{C} + 3\text{O} + x(2\text{H} + \text{O}) = 286\)
+\((2 \times 23) + 12 + (3 \times 16) + x[(2 \times 1) + 16] = 286\)
+\(106 + 18x = 286\)
+\(18x = 180\)
+\(x = 10\)
+
+Therefore, in this example, there are 10 molecules of water of crystallization in the hydrated sodium carbonate (Na\(_2\)CO\(_3\) &middot; 10H\(_2\)O) sample.
+
+###27.2.6 Sample Practical Question
+
+The following is a sample practical question from 2012. You are provided with the following solution:
+
+TZ: Containing 3.5 g of impure sulphuric acid in 500 cm\(^3\) of solution; LO: Containing 4 g of sodium hydroxide in 1000 cm\(^3\) of solution; Phenolphthalein and Methyl indicators.
+
+**Questions:**
+
+(A)  
+
+1. What is the suitable indicator for the titration of the given solutions? Give a reason for your answer.
+2. Write a balanced chemical equation for the reaction between TZ and LO.
+3.  Why is it important to swirl or shake the contents of the flask during the addition of the acid?
+
+(B)
+
+1. Titrate the acid (in a burette) against the base (in a conical flask) using two drops of your indicator and obtain three titre values.
+
+(C)
+
+1. ________________ cm3 of acid required and ________________ cm3 of base for complete reaction.
+2. Showing your procedures clearly, calculate the percentage purity of TZ. (20 marks)
+
+**Discussion**
+
+This practical question requires students to know and understand how to use volumetric analysis apparatus and technique. Since this question involves the titration of sulphuric acid (strong acid) and sodium hydroxide (strong base), either phenolphthalein or methyl orange are acceptable indicators to use. An explanation of suitable indicators can be found in Acid-base Indicators (p. 98).
+
+Make sure that students create a table for the first pilot titration and three titre values, for a total of four titrations. Only the titre values (not the pilot) that are within ±0.02 ml of each other will be used to calculate the average titrated volume. Students should also be swirling the contents of the volumetric flask in order to thoroughly mix the acid and base together. The titration is complete only when there is permanent color change in the indicator.
+
+Note that although this procedure states the number of drops of indicator and how many number of titre values, it does not indicate what volume to use in the flask. The typical volume is 25 ml, but students can use any volume as long as they are consistent for each trial.
+
+The practical question for volumetric analysis will always ask students to either determine percentage purity, molecules of crystallization of water, unknown concentration of one of the solutions, or molar mass of one of the solutions. See Common Calculations in Titration Experiments (p. 102) for more explanation on various volumetric analysis calculations.
+
+##27.3 Qualitative Analysis
+
+This section contains the following:
+
+- Overview of Qualitative Analysis
+- Local Materials in Qualitative Analysis
+- The Steps of Qualitative Analysis
+- Hazards and Cleanliness
+- Sample Practical: Preparation of Copper Carbonate for Qualitative Analysis
+
+###27.3.1 Overview of Qualitative Analysis
+
+The salts requiring identification have one cation and one anion. Generally, these are identified separately although often knowing one helps interpret the results of tests for the other. For ordinary level in Tanzania, students are confronted with binary salts made from the following ions:
+
+- Cations: NH\(^{+4}\), Ca\(^{2+}\), Fe\(^{2+}\), Fe\(^{3+}\), Cu\(^{2+}\), Zn\(^{2+}\), Pb\(^{2+}\), Na\(^{+}\) 
+- Anions: CO\(^{2−}\), HCO\(^{−}\), NO\(^{-}\), SO\(^{2−}\), Cl\(^{−}\)
+
+At present, ordinary level students receive only one salt at a time. The teacher may also make use of qualitative analysis to identify unlabeled salts.
+
+The ions are identified by following a series of ten steps, divided into three stages. These are:
+
+- Preliminary tests: These tests use the solid salt. They are: appearance, action of heat, action of dilute H\(_2\)SO\(_4\), action of concentrated H\(_2\)SO\(_4\), flame test, and solubility.
+- Tests in solution: The compound should be dissolved in water before carrying out these tests. If it is not soluble in water, use dilute acid (ideally HNO\(_3\)) to dissolve the compound. The tests in solution involve addition of NaOH and NH\(_3\).
+- Confirmatory tests: These tests confirm the conclusions students draw from the previous steps. By the time your students start the confirmatory tests, they should have a good idea which cation and which anion are present. Have students do one confirmatory test for the cation they believe is present, and one for the anion you believe is present. Even if several confirmatory tests are listed, students only need to do one. When identifying an unlabelled container, however, you might be moved to try several, especially if you are new to this process.
+
+###27.3.2 Local Materials in Qualitative Analysis
+
+For all low-cost local material substitutes, consult the section on Sources of Laboratory Equipment (p. 208).
+
+- **Heat Sources:** Motopoa burners cost nothing to make (soda bottle caps) and consume only a small amount of fuel. They give a non-luminous flame ideal for flame tests and still produce enough heat for the other tests.
+- **Test Tubes:** Plastic test tubes suffice.
+- **Litmus paper:** Rosella flowers give very good results.
+- **Low-cost sources of chemicals:** (see Shika Express Chemistry companion manual).
+
+Share expensive chemicals among many schools. A single container of potassium ferrocyanide, for example, can supply ten or even twenty schools for several years. Schools should consider bartering 10 g of one chemical for 10 g of another. Another alternative is for all of the schools in a district or town to pool money to buy one container of each required imported reagent, and then divide the chemicals evenly.
+
+###27.3.3 The Steps of Qualitative Analysis
+
+####Appearance
+
+Three properties of the salt may be observed directly: colour, texture, and smell.
+
+**Colour:** While most salts are white, salts of transition metals are often colored. Thus colour is an easy way to identify iron and copper cations in salts.
+
+**Texture:** Carbonates and hydrogen carbonates generally form powders although sometimes they can form crystals. Sulphate, nitrates, and chlorides are almost always founds as crystals.
+
+**Smell:** Some ammonium salts smell distinctly like ammonia. Some, however, have no smell. Therefore the smell of ammonia can confirm the presence of ammonium cations, but its absent can not be used to prove the absence of ammonium.
+
+*Materials:* Soda bottle caps, table salt, bicarbonate of soda, soda ash (sodium carbonate), copper (II) sulphate, ammonium sulphate, locally manufactured iron (II) sulphate, locally manufactured iron (III) sulphate, locally manufactured copper (II) carbonate
+
+**Preparation**
+
+1. Place a small amount of each sample in a different soda bottle cap for observation.
+
+**Activity Steps**
+
+1. Look at the samples. Describe their colour, texture, and smell. Do not touch or inhale the salts.
+
+**Results and Conclusion**
+
+- **Colour**
+    *White:* Copper and iron absent
+    *Blue Copper* cation present
+    *Green:* Iron (II) or copper present
+    *Light Green:* Iron (II) present
+    *Yellow or Red-Brown:* Iron (III) present
+
+- **Texture**
+    *Powder:* Carbonate or hydrogen carbonate anion present
+    *Crystals:* Sulphate, chloride, or nitrate anion probably present 
+    *Wet Crystals:* Chloride or nitrate anion present
+
+- **Smell**
+    *Smell of ammonia:* Ammonium cation present
+    *No smell of ammonia:* Inconclusive – some ammonium compounds have no smell
+
+**Clean Up**
+
+1. Collect salts for use another day. Do not mix.
+2. Wash and return soda bottle caps.
+
+*Notes* Wet crystals are the result of the salt absorbing water from the atmosphere. Qualitative analysis salts with this property are not locally available. However, caustic soda (sodium hydroxide) has this property, so samples of caustic soda can be used to show the absorption of water from the air and how this changes the appearance of the salt. Note that caustic soda burns skin, blinds in eyes and corrodes metal, so care is required.
+
+
+####Action of heat
+
+Many salts thermally decompose when heated. When these salts decompose, they produce gases that may be identified to identify the anion of the salt. After decomposition, many salts also leave a residue that may identify the cation.
+
+Materials soda bottle caps, motopoa, matches, long handled metal spoons, steel wool, sand, beaker, water, table salt, copper (II) sulphate, bicarbonate of soda, locally prepared copper (II) carbonate*, soda ash (sodium carbonate), locally prepared zinc carbonate
+
+**Hazards and Safety**
+
+- Ammonium nitrate explodes when heated. For this reason, ammonium nitrate should never be used in qualitative analysis when the Action of Heat test is used.
+- Test tubes should be pointed away from the student holding them and from other students by holding them at an angle. This will prevent injuries due to splashing chemicals, and will also minimize inhalation of any gases produced. Teach students to never to fill test tubes or any other container more than half.
+
+**Preparation**
+
+1. Fill a beaker with water.
+2. Make a small pile of sand on the table for resting the hot spoon.
+3. Place a small amount of each sample in a different soda bottle cap.
+4. Add motopoa to another soda bottle cap to use as a burner.
+
+**Activity Steps**
+
+1. Light the motopoa. Note that the flame will be invisible.
+2. Place a very small amount of a sample on the spoon. Generally, the smallest amounts of sample give the best results because they are easier to heat to a hotter temperature.
+3. Heat the sample strongly, observing all changes.
+4. Place the hot spoon on the sand to cool.
+5. Once the spoon has mostly cooled, dip it in the beaker of water to remove the rest of the heat.
+6. Use the steel wool to remove all residue from the spoon.
+7. Repeat these steps with each sample.
+
+**Results and Conclusion**
+
+- **Gas released** 
+    - *Brown gas* Nitrogen dioxide, nitrates present, confirmed  
+    - *Colourless* gas with smell of ammonia Ammonia, ammonium present, confirmed  
+    - *Colourless* gas with no smell Very likely carbon dioxide, especially if the compound decomposes near the start of heating, carbonate or hydrogen carbonate present  
+    - *No change* Salt probably a chloride, sulphate (very high temperatures are required to decompose many sulphates), or sodium carbonate  
+- **Residue**  
+    - *No residue* Ammonium cation present  
+    - *Black residue* Copper cation probably present  
+    - *Red residue* when hot, dark when cool Iron cation present Yellow residue when hot, white when cool Zinc cation present Red residue when hot, yellow when cool Lead cation present  
+- **Sound**  
+    - *Cracking sound* Sodium chloride or lead nitrate present  
+ 
+**Clean Up**
+
+1. Thoroughly remove all residues from the spoons.
+
+Notes Sodium carbonate is the only carbonate used in qualitative analysis that does not thermally decompose. Therefore a white powder that does not decompose when heated is probably sodium carbonate.
+
+####Action of dilute H\(_2\)SO\(_4\):
+
+Carbonates and hydrogen carbonates react with dilute acid. Sulphates, chlorides and nitrates do not. Therefore reaction with dilute acid is useful test to help identify the anion. Sulphuric acid is used because it is the least expensive.
+
+**Materials:** dilute sulphuric acid, droppers*, bicarbonate of soda, table salt
+
+**Hazards and Safety**
+
+- Use only a few drops of acid. These are all that are necessary and using more can be dangerous.
+
+**Preparation**
+
+1. Place a small amount of each sample in a different soda bottle cap. 
+2. Fill droppers with 1-2 mL dilute acid.
+
+**Activity Steps**
+
+1. Add a few drops of acid to each sample. Observe the results.
+
+**Results and Conclusion**
+
+Bubbles of gas Carbon dioxide produces; carbonate or hydrogen carbonate anion present No bubbles of gas Carbonate and hydrogen carbonate absent
+
+**Clean Up**
+
+1. Neutralize spills of dilute sulphuric acid with bicarbonate of soda.
+2. Mix the remains from the reactions together so the extra bicarbonate of soda can neutralize the acid used to test table salt. Dilute the resulting mixture with a large amount of water and dispose down a sink, into a waste storage tank, or into a pit latrine.
+
+**Notes** You can confirm that the gas produced is carbon dioxide by testing to see if it extinguishes a glowing splint. To do this, light a match, use about 0.5 mL of acid (rather than a few drops), and see if the gas released will extinguish the match.
+
+####Action of concentrated H\(_2\)SO\(_4\):
+
+Concentrated sulphuric acid can convert chloride anions to hydrogen chloride gas and some nitrates to nitrogen dioxide. Because both of these gases are easy to detect, the addition of concentrated acid is used to distinguish between nitrates, chlorides, and sulphates. The concentrated acid used in this experiment should be about 5 M, similar to battery acid.
+
+**Materials** battery acid, droppers, spoons, test tubes, test tube rack, test tube holder, heat source, hot water bath, table salt (sodium chloride), gypsum (calcium sulphate), ammonium sulphate, blue litmus paper, beaker, water
+
+**Hazards and Safety**
+
+- Use battery acid or another source of 5 M sulphuric acid for this experiment. Do not use fully concentrated 18 M sulphuric acid directly from either industry or laboratory supply. 18 M is too concentrated and very dangerous to use.
+- Concentrate acid reacts violently with carbonates and hydrogen carbonates. The previous test – the addition of dilute acid – will detect carbonates and hydrogen carbonates. If that test is positive, do not test the sample with concentrated sulphuric acid.
+- Test tubes should be pointed away from the student holding them and from other students by holding them at an angle. This will prevent injuries due to splashing chemicals, and will also minimize inhalation of any gases produced. Teach students to never to fill test tubes or any other container more than half.
+
+**Preparation**
+
+1. Place a small amount of each sample in a different soda bottle cap.
+2. Add about 1 mL of air to each dropper syringe (no needle!) and then 2 mL of battery acid. Distribute the dropper syringes in the test tube racks so they stand with the outlet pointing down. The goal is to prevent the battery acid from reacting with the rubber plunger.
+
+**Activity Steps**
+
+1. Light the heat source and start heating the hot water bath. The water in the hot water bath should boil.
+2. Use the spoon to add a small amount of a sample to a test tube.
+3. Add two drops of battery acid to the sample to make sure there is no violent reaction.
+4. Add just enough battery acid to cover the sample. Avoid spilling drops of acid on the inside walls of the test tube.
+5. If a brown gas is released, stop at this step.
+6. Moisten the blue litmus paper by quickly dipping it in the water of the hot water bath.
+7. Place the litmus paper over the mouth of the test tube to receive any gases produces. If the litmus paper changes colour, stop at this step.
+8. Hold the test tube in the hot water bath and heat for a while. Stop heating before the acid in the test tube boils. If the litmus paper changes colour before the acid boils, this is a useful result. If the acid boils, fumes from the acid itself will change the colour of the litmus paper – this result is not useful, and acid fumes are dangerous.
+
+**Results and Conclusion**
+
+**Bubbles with a few drops of acid:** Carbonate or hydrogen carbonate anion present
+**Brown gas produced:** Nitrate anion present
+**Litmus changes to red:** Hydrogen chloride gas produced; chloride anion present
+**No effect observed:** Sulphate anion probably present
+
+**Clean Up**
+
+1. Fill a large beaker half way with room temperature water. This will be the waste beaker.
+2. Pour waste from the test tubes into the waste beaker.
+3. Fill each test tube half way with water and add this water to the waste beaker.
+4. Return unused battery acid from the droppers to a well-labelled storage container for future use. Immediately fill each dropper (syringe) with water and transfer this water to the waste beaker.
+5. Slowly add bicarbonate of soda to the waste beaker until addition no longer causes bubbling. This is to neutralize the acid in the waste.
+6. Dilute the resulting mixture with a large amount of water and dispose down a sink, into a waste storage tank, or into a pit latrine.
+7. Thoroughly wash all apparatus, including the test tubes and droppers, and return them to the proper places.
+
+####Flame test
+
+Some metal ions produce a characteristically coloured flame when added to fire.
+Materials soda bottle caps, motopoa, metal spoons, beaker, steel wool, water, table salt (sodium chloride), gypsum (calcium sulphate), copper (II) sulphate, ammonium sulphate
+
+**Preparation**
+
+1. Fill a beaker with water.
+2. Place a small amount of each sample in a different soda bottle cap. 
+3. Add motopoa to another soda bottle cap to use as a burner.
+
+**Activity Steps**
+
+1. Light the motopoa. Note that the flame will be invisible.
+2. Place a small amount of sample on the edge of the spoon. For some spoons, it is better to hold the spoon by the wide part and to place the sample on the end of the handle.
+3. Hold the sample into the hottest part of the flame, 1-2 cm above the motopoa. If necessary, tilt the spoon so that the sample touches the flame directly. Do not spill the sample into the flame.
+4. Dip the hot end of the spoon into the beaker of water to cool it and remove the sample. If necessary, clean the spoon with steel wool.
+5. Repeat these steps with each sample.
+
+**Results and Conclusion**
+
+- *Blue or green flame:* Copper present, confirmed  
+- *Golden yellow flame:* Sodium present, confirmed  
+- *Brick red flame:* Calcium present  
+- *Bluish white flame:* Lead present  
+- *No flame colour:* Copper and sodium absent; calcium and lead probably absent; cation is probably ammonia, iron, or zinc
+
+**Clean Up**
+
+1. Collect unused samples for use another day. 
+2. Wash and return all apparatus.
+
+####Solubility
+
+**Materials** soda bottle caps, two spoons, test tubes, test tube rack, hot water bath, heat source, distilled (rain) water, table salt (sodium chloride), soda ash (sodium carbonate), gypsum (calcium sulphate), powdered coral rock (calcium carbonate) or locally manufactured calcium carbonate or locally manufactured copper (II) carbonate
+
+**Preparation**
+
+1. Fill a beaker with water.
+2. Place a small amount of each sample in a different soda bottle cap.
+
+**Activity Steps**
+
+1. Light the heat source and start heating the hot water bath. The water in the hot water bath should boil.
+2. Decide which spoon will be used for transferring samples and which will be used for stirring.
+3. Use the transfer spoon to transfer a very small amount of a sample to a test tube.
+4. Add 3-5 mL of distilled water to the test tube.
+5. Use the handle of the stirring spoon to thoroughly mix the contents of the test tube.
+6. If the sample does not dissolve, heat the test tube in the water bath until the contents of the test tube are almost boiling (small bubbles rise from the bottom). Mix.
+7. Repeat these steps with each sample.
+
+**Results and Conclusion**
+
+*Sample dissolves in room temperature water:* Soluble salt present  
+*Sample dissolves only in hot water:* Calcium sulphate or lead chloride present  
+*Sample does not dissolve in even hot water:* Insoluble salt present  
+
+**Solubility Rules**
+
+- All Group I (sodium, potassium, etc) and ammonium salts are soluble (sodium borate is an exception but not relevant to qualitative analysis)
+- All nitrates and hydrogen carbonates are soluble
+- Most chlorides are soluble (silver and lead chlorides are exceptions, although the latter is soluble in hot water)
+- Carbonates of metals outside of Group I are generally insoluble (note that aluminum and iron (III) carbonate do not exist)
+- Lead sulphate is insoluble and calcium sulphate is soluble only in hot water. Magnesium sulphate is completely soluble while sulphates of the Group II metals heavier than calcium (strontium and barium) are insoluble. All other sulphates used in qualitative analysis are soluble]
+
+**Table of Solubility for Qualitative Analysis**
+
+|     | Ammonium | Sodium | Copper | Iron | Zinc | Calcium | Lead |  
+| ----| -------- | ------ | ------ | ---- | ---- | ------- | ---- |  
+| Nitrate | O | O | O | O | O | O | O |  
+| Chloride | O | O | O | O | O | O | ∆ |  
+| Sulphate | O | O | O | O | O | ∆ | X |  
+| Carbonate | O | O | X | X | X | X | X |  
+| Hydrogen Carbonate | O | O | - | - | - | - | - |  
+
+
+
+KEY:
+
+- O = soluble at room temperature  
+- ∆ = soluble only when heated  
+- X = insoluble in water  
+- – = salt does not exist  
+
+**Clean Up**
+
+1. Collect all unused (dry) samples for use another day.
+2. Unless copper carbonate is used, none of the salts listed in the materials section of this activity are harmful to the environment.
+3. Dispose of solutions in a sink, waste tank, or pit latrine.
+4. Dispose of solids and liquid wastes with precipitates in a waste tank or pit latrine – never dispose of solids in sinks.
+5. If using copper carbonate, collect all waste containing copper carbonate and filter to recover the copper carbonate. Save for use another day.
+6. If you do this activity with a lead nitrate or lead chloride, collect these wastes in a separate container. Add dilute sulphuric acid dropwise until no further precipitation is observed. Neutralize with bicarbonate of soda. Dispose this mixture in a waste tank or a pit latrine. The lead sulphate precipitate is highly insoluble will not enter the environment.
+7. Wash and return all apparatus.
+
+**Notes** Calcium carbonate or copper carbonate are recommended qualitative analysis salts to use as examples of insoluble salts. If these are difficult to get, other insoluble compounds may be used for teaching this specific step (but not for other parts of qualitative analysis). Examples of other insoluble compounds include sulphur power, manganese (IV) oxide from batteries, and chokaa (calcium hydroxide, which is only slightly soluble so a significant precipitate will remain).
+
+####Addition of NaOH solution
+
+**Materials** soda bottle caps, two spoons, test tubes, test tube rack, beakers, medium droppers (5 mL syringes without needles), large droppers (10 mL syringes without needles), caustic soda (sodium hydroxide), table salt (sodium chloride), ammonium sulphate, copper (II) sulphate, locally manufactured iron (II) sulphate, locally manufactured iron (III) sulphate, locally manufactured zinc sulphate, distilled (rain) water
+
+**Preparation**
+
+1. Fill a 500 mL water bottle about half way with distilled (rain) water. 
+2. Add one level tea spoon of caustic soda and then wash the spoon.
+3. Label the bottle “1 M sodium hydroxide – corrosive”
+4. Place a small amount of each sample in a different soda bottle cap. 
+5. Pour some of the sodium hydroxide solution into a clean beaker.
+6. For each small dropper syringe, suck in about 1 mL of air and then add about 4 mL of sodium hydroxide solution. Distribute the dropper syringes in the test tube racks so they stand with the outlet pointing down. The goal is to prevent the sodium hydroxide from reacting with the rubber plunger.
+
+**Activity Steps**
+
+1. Decide which spoon will be used for transferring samples and which will be used for stirring.
+2. Use the transfer spoon to transfer a very small amount of a sample to a test tube.
+3. Use the large dropper syringe to add 3-5 mL of distilled water to the test tube.
+4. Use the handle of the stirring spoon to thoroughly mix the contents of the test tube.
+5. Use the small dropper to add a few drops of sodium hydroxide solution to the test tube.
+6. Observe the colour of any precipitate formed. Also waft the air from the top of the test tube towards your nose to test for smell.
+7. If a white precipitate forms, use the stir spoon to transfer a very small quantity of the precipitate to a clean test tube. Add 1-2 mL of sodium hydroxide directly to this sample to see if the precipitate is soluble in excess sodium hydroxide solution.
+
+**Results and Conclusion**
+*No precipitate and smell of ammonia:* Ammonium cation present, confirmed  
+*No precipitate and no smell:* Sodium cation probably present  
+*Blue precipitate:* Copper (II) cation present  
+*Green precipitate:* Iron (II) cation present  
+*Red-brown precipitate:* Iron (III) cation present  
+*White precipitate not soluble in excess NaOH:* Calcium cation present  
+*White precipitate:* soluble in excess NaOH Lead or zinc cation present  
+
+**Clean Up**
+
+1. Save all waste from this experiment, labeling it “basic qualitative analysis waste, no heavy metals” and leave it in an open container. Over time atmospheric carbon dioxide will react with the sodium hydroxide to make less harmful carbonates. After 2-3 days, dispose of the waste in a waste tank or a pit latrine.
+
+####Addition of NH\(_3\) solution:
+
+This test is very similar to the addition of sodium hydroxide solution. The useful difference is that zinc forms a precipitate in ammonia that is soluble in excess ammonia whereas lead forms a precipitate in ammonia that is not soluble in excess ammonia. Therefore, this test is mainly used to separate lead and zinc. Neither lead salts nor ammonia are locally available in Tanzania. Because the process of this test is the same as the addition of NaOH and the results so similar, students can adequately learn about the Addition of NH\(^3\) test by practicing the Addition of NaOH. For the national exam, a small amount of ammonia solution can be obtained.
+
+Note also that the addition of ammonia to a solution of copper (II) will produce a blue precipitate that dissolves in excess ammonia to form a deep blue solution. This is a useful conformation of the presence of copper, but such conformation is generally unnecessary because the flame test for copper is so reliable.
+
+If you have ammonia solution, store it in a well-sealed container to prevent the ammonia from escaping. A good container for this is a well labeled plastic water bottle with a screw on cap.
+
+####Confirmatory Tests
+Every cation and anion has at least one specific test that can be used to prove its presence. Not all of these tests are possible with local materials, but many of them are. The following list shows how to confirm each possible cation and anion.
+
+####Confirmatory Tests for the Cation
+
+**Ammonium**
+
+- Example salt: ammonium sulphate
+- Procedure: add sodium hydroxide solution and heat in a water bath
+- Confirming result: smell of ammonia
+- Reagents: NaOH solution as used above
+
+**Calcium**
+
+- Example salt: calcium sulphate
+- Procedure: Two options
+    1. flame test
+    2. addition of NaOH solution
+- Confirming results:
+    1. flame test: brick red flame
+    2. addition of NaOH: white precipitate insoluble in excess
+- Reagents:
+    1. none
+    2. NaOH solution
+ 
+**Copper**
+
+- Example salt: copper sulphate
+- Procedure: flame test
+- Confirming result: blue/green flame
+- Reagents: none
+
+**Iron (II)**
+
+- Example salt: locally manufactured iron sulphate (keep away from water and air)
+- Procedure: addition of sodium hydroxide solution and then transfer of precipitate to the table surface
+- Confirming result: green precipitate that oxidizes to brown when exposed to air
+- Reagent: sodium hydroxide solution from above
+
+**Iron (III)**
+
+- Example salt: locally manufactured iron sulphate (oxidized by water and air)
+- Procedure: addition of sodium ethanoate solution
+- Confirming result: yellow to red solution
+- Reagent: slowly add bicarbonate of soda to vinegar; stop adding when further addition does not cause bubbles; label the solution “sodium ethanoate for detection of iron (III)”
+
+**Lead**
+
+- Example salt: no local sources for safe manufacture, consider purchasing lead nitrate
+- Procedure: Three options
+    1. flame test
+    2. addition of dilute sulphuric acid
+    3. addition of potassium iodide solution
+- Confirming results:
+    1. flame test: blue/white flame
+    2. addition of dilute sulphuric acid: white precipitate
+    3. addition of KI solution: yellow precipitate that dissolves when heated and reforms when cold
+- Reagents:
+    1. none but a very hot flame, e.g. Bunsen burner, is required
+    2. dilute sulphuric acid used in Step 5 above
+    3. obtain pure potassium iodide by evaporating iodine tincture until only white crystals remain; do this outside and do not breathe the fumes; it might also be possible to use the KI solution prepared for electrolysis in the chapter on ionic theory
+ 
+**Sodium**
+
+- Example salts: sodium chloride, sodium carbonate, sodium hydrogen carbonate • Procedure: flame test
+- Confirming result: golden yellow flame
+- Reagents: none
+
+**Zinc**
+
+- Example salt: locally manufactured zinc carbonate or zinc sulphate
+- Procedure: addition of 0.1 M potassium ferrocyanide solution
+- Confirming result: gelatinous gray precipitate
+- Reagents: no local source of potassium ferrocyanide – consider collaborating with many schools to share a container; only a very small quantity is required
+
+####Confirmatory Tests for the Anion
+
+**Hydrogen carbonate**
+
+- Example salt: sodium hydrogen carbonate
+- Procedure: add magnesium sulphate solution and then boil in a water bath
+- Confirming result: white precipitate forms only after boiling
+- Reagent: dissolve Epsom salts (magnesium sulphate) in distilled (rain) water*
+
+**Carbonate**
+
+- Example salt: sodium carbonate
+- Procedure for soluble salts: addition of magnesium sulphate solution
+- Confirming result: white precipitate forming in cold solution
+- Reagent: dissolve Epsom salts (magnesium sulphate) in distilled (rain) water
+- Note that insoluble salts that effervesce with dilute acid are likely carbonates. None of the other anions described here produce gas with dilute acid. Note also that all hydrogen carbonates are soluble.
+
+**Chloride**
+
+- Example salt: sodium chloride
+- Procedure: Three Options
+     1. addition of silver nitrate solution
+     2. addition of manganese (IV) oxide and concentrated sulphuric acid followed by heating in a water bath
+     3. addition of weak acidified potassium permanganate solution followed by heating in a water bath
+- Confirming results:
+     1. silver nitrate: white precipitate of silver chloride
+     2. manganese (IV) oxide: production of chlorine gas that bleaches litmus
+	 3. acidified permanganate: decolourization of permanganate
+- Reagents:
+     1. Silver nitrate has no local source but may be shared among many schools as only a very small amount is required.
+     2. Manganese dioxide may be purified from used batteries and battery acid is concentrated sulphuric acid. Note that careful purification is required to remove all chlorides from the battery powder. This method is useful because of its low cost, but remember that chlorine gas is poisonous! Students should use very little sample salt in this test.
+     3. Prepare a solution of potassium permanganate, dilute with distilled water until the colour is light pink, and then add about 1 percent of the solution’s volume in battery acid. Note that this solution will cause lead to precipitate, and will also be decolourized by iron II, so it is not a perfect substitute for silver nitrate. This final option is also not yet recognized by examination boards, i.e. NECTA
+ 
+**Sulphate**
+
+- Example salt: copper sulphate, calcium sulphate, iron sulphate
+- Procedure: addition of a few drops of a solution of lead nitrate, barium nitrate, or barium chloride
+- Confirming result: white precipitate
+- Reagents: none of these chemicals have local sources. Because lead nitrate is also an example salt, it is the most useful and the best to buy. The ideal strategy is to share one of these chemicals among many schools. Remember that all are quite toxic.
+
+**Notes** Emphasize to students that they need to carry out only one confirmatory test for the cation, and one for the anion. If the test gives the expected result, then they can be sure that the ion they have identified is present. If the test does not give the expected result, they have probably made a mistake, and they should revisit the results of their previous tests and choose a different possibility to confirm.
+
+###27.3.4 Hazards and Cleanliness
+
+Qualitative analysis practicals are full of hazards, from open flames to concentrated acids. Here are some ways to reduce the risk of accidents:
+
+- Teach students how to use their flame source before the day of the practical.
+- Have students hold their test tubes at an angle pointed away from them and other students to prevent splashing chemicals and minimize inhalation of any gases produced.
+- Teach students never to fill test tubes or any other container more than halfway in order to minimize spills and boiling over of chemicals during heating.
+- Teach students that if they get chemicals on their hands, they should wash them off immediately, without asking for permission first.
+- Teach students to tell you immediately when chemicals are spilled. Sometimes they hide chemical spills for fear of punishment. Do not punish them for spills – legitimate accidents happen. Do punish them for unsafe behavior of any kind, even if it does not result in an accident.
+- Practicals involving nitrates, chlorides, ammonium compounds, and some sulphates produce harmful gases. Open the lab windows to maximize airflow.
+- Make absolutely sure that students clean their tables and glassware before they leave.
+
+###27.3.5 Sample Practical Question
+
+The following is a sample practical question from 2012.
+Substance V is a simple salt which contains one cation and one anion. Carry our the experiments described below. Record carefully your observations and make appropriate inferences and hence identify the anion and cation present in sample V.
+￼￼￼
+(TABLE)
+
+**Conclusion**
+
+1. The cation in sample V is:
+2. The anion in sample V is:
+3. The chemical formula of V is: 
+4. The name of compound V is: 
+
+**Discussion**
+
+This particular example was to identify calcium carbonate; however, the above procedure follows the same format commonly used for other unknown salts. The only differences may be the specific solutions used in some of the steps.
+
+At times, the procedure may not be explicit or indicated whatsoever and the student is required to write the detailed procedure in addition to the observations and inferences.
+
+Emphasize to students that in addition to the qualitative analysis procedure they have to do only one confirmatory test for cations and one for anions.
+
+##27.4 Chemical Kinetics and Equilibrium 
+
+###27.4.1 Theory
+
+Compared to the other two NECTA chemistry practicals - Acid/Base Titration (i.e. Volumetric Analysis) and Qualitative Analysis - Chemical Kinetics has few alternative chemicals that can be used.
+
+The chemical reaction in the NECTA exam is a precipitation of sulphur.
+
+(equation)
+
+The preparation and procedure for Chemical Kinetics is very simple.
+
+###27.4.2 Preparation
+
+1. Prepare solution of Sodium Thiosulphate by placing appropriate mass of crystals (in accordance with desired concentration) in a water bottle and shake vigorously until completely dissolved.
+2. Prepare acid solution using hydrochloric acid (preferable) or sulphuric acid. (Remember for calculations that sulphuric acid will have two H\(^+\) ions to hydrochloric acid’s one.)
+3. Take a white piece of paper and draw a large black X on it
+
+###27.4.3 Procedure
+The procedure can change depending on whether the variable of the reaction rate is temperature or concentration. The procedure outlined here will be focused on concentration. The sample NECTA question below is based on having a temperature variable.
+
+ 1. Place in a beaker or glass the amount of sodium thiosulphate solution and clean water prescribed in the table.
+ 2. Ready the stopwatch and pour in the prescribed amount of hydrochloric acid, starting the stopwatch as you do so.
+ 3. Gently swirl the glass and place it over the paper with an X on it.
+ 4. When the solution has precipitated enough sulphur to the point where the X is no longer visible, stop the stopwatch. Record the time.
+ 5. The resulting solution is already neutralized, and can be merely diluted and disposed of as is. (Unless you wish to obtain the salt/sulphur mixture by evaporation for another day.)
+ 6. Thoroughly rinse the glass and repeat, changing the amounts of sodium thiosulphate and water as prescribed by the problem.
+ 7. Graph the results to calculated the desired variables
+ 
+This practical is consistent and easy to practice, but it requires sodium thiosulphate which can be expensive and hard to get a hold of. (As mentioned, the hydrochloric acid can be replaced with sulphuric (battery) acid.) An alternative reaction to demonstrate chemical kinetics (that can be performed very cheaply) is the iodization of acetone, seen in the reaction below.
+
+CH\(_3\)COCH\(_3\)(aq) + I\(_2\) → CH\(_3\)COCH\(_2\)I (aq) + H\(^+\)(aq) + I\(^−\)(aq)
+
+This reaction starts as a dark opaque solution and eventually proceeds to a colorless, transparent solution. It requires an acidic environment to occur (both hydrochloric or sulphuric acid suffice). The amount of time it takes to reach the point of colorlessness varies depending on the concentration of the acetone. It is easy to demonstrate the relationship between concentration and rate of reaction. (By varying the temperature or amount of acid catalyst the reaction visibly proceeds at differing rates.)
+
+###27.4.4 Performing the Practical
+
+**Materials**
+7 beakers, 3 syringes, stopwatch
+
+**Chemicals**
+Nail polish remover, iodine tincture, sulphuric (battery) acid, water
+
+**Preparation**
+
+1. Prepare an iodine solution using iodine tincture. Solutions purchased in the local drugstores are often 0.2 M Iodine (with several other chemicals as well). Create a 0.02 M solution by adding 9 parts water to one part tincture. Put this solution in the first beaker.
+2. Prepare an acidic acetone solution by mixing one part nail polish remover to one part 1 M Sulphuric acid solution. Put this solution in the second beaker. This is roughly a 5 M solution of acetone.
+3. In the third beaker place clean water.
+
+**Procedure**
+
+1. Pour 8 mL of the acetone solution in a clean beaker. Clear a stopwatch and add 8 mL of iodine to the beaker, swirl the solution, and stop the watch when the solution becomes colorless.
+2. Record the value and then perform the experiment again. This time start with 6 mL of acetone solution and 2 mL of clean water in a clean beaker. Clear a stopwatch and add 8 mL of iodine to the beaker, swirl the solution, and stop the watch when the solution becomes colorless.
+3. Repeat the above steps with 4 mL of acetone solution, 4 mL of water, and 8 mL of iodine, and then finally one more time with 2 mL of acetone solution, 6 mL of water and 8 mL of iodine.
+
+| Test | Volume of Iodine Solution (mL) | Volume of Acetone Solution (mL) | Volume of Water (mL) | Molarity of Acetone Solution | Time for Color to Disappear | Reciprocal of Time | 
+| ---- | ---- | ----| ---- | ---- | ---- | ----------| 
+| 1    | 8    | 8   | 0    | 5 M  |      |           |
+| 2    | 8    | 6   | 2    | 3.75 M |    |           |
+| 3    | 8    | 4   | 4    | 2.5 M |     |           |
+| 4    | 8    | 2   | 6    | 1.25 M |    |           |
+
+This data can then be used to plot a graph of concentration of acetone against the rate of reaction.
+
+Notes
+
+- Patience is required for the tests using lower concentrations as they can take over 4 minute to complete.
+- Concentrations may vary depending on where the tincture and remover are purchased.
+- The endpoint of this reaction can be somewhat ambiguous depending on the color of the nail polish remover. Criteria for determining the endpoint may vary.
+- It should be noted that if the nail polish remover is already a specific color it will affect the final color of the solution. Some solutions may never become fully colorless.
+- The reaction used in the NECTA exams goes from transparent to opaque while this alternative goes from opaque to transparent. Make sure students understand this difference.
+- The reaction used in NECTA exams is a neutralization reaction so there is little that needs to be done to process the waste. This alternative reaction is very acidic when finished so be prepared to neutralize it before disposal.
+
+###27.4.5 Sample Practical Question
+
+The following is a sample practical question from 2012. Your are provided with the following materials:
+
+ - **ZO:** A solution of 0.13 M Na\(_2\)S\(_2\)O\(_3\) (sodium thiosulphate)
+ - **UU:** A solution of 2M HCl
+ - Thermometer
+ - Heat source/burner
+ - Stopwatch
+ 
+Procedure:
+
+ 1. Place 500 cm\(^3\) beaker, which is half-filled with water, on the heat source as a water bath.
+ 2. Measure 10 cm\(^3\) of **ZO** and 10 cm\(^3\) of **UU** into two separate test tubes.
+ 3. Put the two test tubes containing **ZO** and **UU** solutions into a water bath.
+ 4. When the solutions attain a temperature of 60&deg;C, remove the test tubes from the water bath and pour both solutions into 100 cm\(^3\) empty beaker and immediately start the stop watch.
+ 5. Place the beaker with the contents on top of a piece of paper marked **X**.
+ 6. Note the time taken for the mark **X** to disappear.
+ 7. Repeat step (i) to (vi) at temperature 70&deg;C, 80&deg;C and 90&deg;C.
+ 8. Record your results as in Table 1. 
+
+**Table 1**
+
+|**Experiment** | **Temperature** | **Time** |  
+| ------------- | --------------- | -------- |  
+| 1 | 60 |  |  
+| 2 | 70 |  |  
+| 3 | 80 |  |  
+| 4 | 90 |  |  
+
+**Questions:**
+
+1. Write a balanced chemical equation for reaction between **UU** and **ZO**.
+2. What is the product which causes the solution to cloud the letter **X**?
+3. Plot a graph of temperature against time (s).
+4. What conclusion can you draw from you graph?
+
+**Discussion**
+
+This particular example was to investigate how temperature affects the rate of a chemical reaction. Other experiments for chemical kinetics involve concentration, surface area, and a catalyst; however, the most common problem statement is how concentration affects the rate of reaction.
+
+For all scenarios, make sure to tell students to start the stopwatch immediately after combining the reactants.

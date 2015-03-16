@@ -1,0 +1,105 @@
+#Appendix B: Kiswahili Laboratory Glossary
+
+While managing a lab filled with dangerous chemicals, breakable glassware, open flames, and inexperienced students, it is important to know how to communicate with students easily to keep the place safe and running smoothly. Below is a list of Kiswahili words and phrases that may be helpful in a lab setting.
+
+|           :**English**:           |              :**Kiswahili**:              |
+| --------------------------------- | ----------------------------------------- |
+| to absorb                         | -fyonza                                   |
+| to be absorbed                    | -fyonzwa                                  |
+| accident                          | ajali                                     |
+| to affect, to influence           | -athiri                                   |
+| ashes                             | majivu                                    |
+| battery acid                      | maji makali                               |
+| to boil (ex. I boil the water.)   | -chemsha (Ninachemsha maji.)              |
+| to be boiling (ex. It is is boiling) | -chemka (Maji yanachemka.)             |
+| to break (ex. I broke the glass)  | -vunja (Nimevunja kioo.)                  |
+| to be broken (ex. It is broken)   | -vunjika (Kioo kimevunjika.)              |
+| broken, bad, rotten               | bovu                                      |
+| to burn (ex. I am burning paper)  | -unguza (Ninaunguza karatasi.)            |
+| (to be) burnt (ex. It is burnt. ) | -ungua (Karatasi imeungua.)               |
+| calcium hydroxide solution (lime water) | maji chokaa                         |
+| carefully                         | taratibu                                  |
+| to cause                          | -sababisha                                |
+| to be caused by                   | -sababishwa                               |
+| caution (ex. Heat with caution.)  | utaratibu (Pasha na utaratibu.)           |
+| to change (ex. I am changing this color.) | -badilisha (Ninabadilisha rangi ya hii.) |
+| to be changed (the color has changed.) | -badilika (Rangi imebadilika.)       |  
+| changes                           | mabadiliko                                |
+| chemical                          | kemikali                                  |
+| container, glassware              | chombo                                    |
+| to clean                          | -safisha                                  |
+| to collide                        | -gongana                                  |
+| color                             | rangi                                     |
+| danger                            | hatari                                    |
+| to decrease (transitive, ex. Decrease the heat.) | -punguza (Punguza moto.)   |
+| to decrease in size/make smaller (intransitive, ex. The heat has decreased). | -pungua (Moto umepungua.) |
+| to destroy/damage/contaminate (ex. I contaminated the chemical.) | -haribu (Nimeharibu kemikali.) | 
+| to be destroyed/contaminated (ex. The chemical is expired.) | -haribika (Kemikali imeharibika.) |
+| distilled water (from hardware or auto shop) | maji baridi                    | 
+| to distribute                     | -gawa                                     |
+| to draw                           | -chora                                    |
+| to drink (ex. Do not drink!)      | -nywa (Usinywe!)                          |
+| drop (as in a drop of water)      | tone                                      |
+| to dry                            | -kausha                                   |
+| effect                            | athari                                    |
+| to estimate                       | -kadiri                                   |
+| to evaporate (causitive, ex. I am evaporating the water.) | -vukiza (Ninavukiza maji.) |
+| to explode                        | -lipuka                                   |
+| to fill (ex. Fill a container.)   | -jaza (Nimejaza chombo.)                  |
+| to be full (ex. It is full.)      | -jaa (Chombo kimejaa.)                    |
+| to filter                         | -chuja                                    |
+| fire                              | moto                                      |
+| gas, air                          | hewa                                      |
+| glass                             | kioo                                      |
+| group                             | kikundi (vi-)                             |
+| to grow                           | kukua                                     |
+| harm (harmful)                    | madhara (yenye madhara)                   |
+| to haul off and slap someone      | -ezeka makofi                             |
+| to heat                           | -pasha                                    |
+| height, length                    | urefu                                     |
+| to hit, to knock                  | -gonga                                    |
+| to increase in size/number, to swell (ex. The amount of food increased.) | -ongezeka (Chakula ongezeka.) |
+| to increase, to add (ex. I added more food.) | -ongeza (Nimeongeza chakula.)  |
+| instrument/apparatus/tool         | kifaa (vi-)                               |
+| to kick someone out (ex. I will kick you out if you break a rule.) | -fukuza (Kama unakiuka sheria, nitakufukuza.) |
+| lab activity/experiment/practical | practical                                 |
+| living                            | hai                                       |
+| match/lighter                     | kiberiti/kiberiti cha gesi                |
+| to measure, to test               | -pima                                     |
+| to be melted or dissolved (ex. The salt dissolved.) | -yeyuka (Chumvi imeyeyuka.) |
+| mass                              | uzito                                     |
+| methylated spirits                | spiriti                                   |
+| microscope                        | hadubini                                  |
+| to mix                            | -changanya                                |
+| to be mixed                       | -changanyika                              |
+| mixture                           | mchanganyiko                              |
+| particle, atom, small piece       | chembe ndogo ndogo                        |
+| permission                        | ruhusa                                    |
+| poison                            | sumu                                      |
+| to pour                           | -mimina                                   |
+| to pour out                       | -mwaga                                    |
+| to press/push on something        | -bonyeza                                  |
+| to put, to keep                   | -weka                                     | 
+| rubber, rubber tubing             | mpira                                     |
+| to rush, to hurry (ex. Do not rush!) | -harakisha (Usiharakishe!)             |
+| scientist                         | mwanasayansi                              |
+| serious, attentive                | makini                                    |
+| to shake                          | -tikisa                                   |
+| to share out, divide              | -gawana                                   |
+| slowly                            | pole pole                                 |
+| to solidify, to freeze            | -ganda                                    |
+| steam                             | mvuke                                     |
+| to stir                           | -koroga                                   |
+| to stop                           | -acha                                     |
+| stove                             | jiko (ma-)                                |
+| strong, sharp, harsh, dangerous, concentrated | kali                          |
+| to suck, to pull                  | -vuta                                     |
+| to throw away, to chuck           | -tupa                                     |
+| to touch (ex. Do not touch!)      | -gusa (Usiguse!)                          |
+| to turn off, to extinguish        | -zima                                     |
+| to turn on, to start              | -washa                                    |
+| volume                            | ujazo                                     |
+| to wash dishes or glassware       | -osha                                     |
+| to wash hands                     | -nawa                                     |
+| to watch                          | -angalia                                  |
+| yeast                             | hamira                                    |

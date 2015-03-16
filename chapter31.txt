@@ -1,0 +1,236 @@
+#Chapter 31: The Scientific Procedure
+
+The following activities can be used as a method of introducing students to the scientific method. Rather than just performing the activities, first identify the question or problem with the students, then have them form a hypothesis for each step of the experiment. Students should record observations and data accordingly and use them to draw a conclusion about the activity.
+
+Prepare an activity sheet for each student or have them copy it into their notebooks before performing the activities. Set up stations for the various activities and have students rotate among them in small groups.
+After performing several of the experiments, ask students to come up with their own. Ask them to think about problems they face in their daily lives. Encourage interested students to turn their ideas into a science fair project to display for the school or community.
+
+##31.1 Biology
+
+###Hand Washing
+
+**Materials:** Soap, water, bottle, basin/bucket, chalk, charcoal, food colour, stopwatch
+**Setup:** Prepare a large amount of soapy water. Grind the chalk and charcoal into separate powders.
+
+**Problem:** How long should we wash our hands?
+
+| **Material** | **Hypothesis (in seconds)** | **Experimental Result** | 
+| ------------ | --------------------------- | ----------------------- |
+| Chalk powder |                             |                         |
+| Charcoal powder |                          |                         |
+| Food color |                               |                         |
+
+**Hypothesis:** Predict how much time it will take to completely clean your hands and record in the table.
+**Procedure:** Start a stopwatch and have a student or teacher slowly pour soapy water over a basin while the student washes his or her hands. Stop the clock when the student’s hands are completely clean.
+**Observations:** Record the time taken to completely wash your hands in the table.
+**Questions:**
+
+1. Why is it important to wash our hands?
+2. When do we need to wash our hands?
+
+**Theory:** Washing our hands with soap and water helps to kill harmful bacteria that can cause us to become sick if allowed into our bodies. It is very important to wash our hands before eating and after using the bathroom.
+
+###Lung Capacity
+
+![lung-capacitypng.txt](images/lung-capacitypng.txt)
+
+**Materials**1.5 L bottle, basin, water, plastic tubes/straws, soap, marker, ruler
+**Setup:** Make a scale on the bottle using a marker and ruler (e.g. 100 mL increments). Prepare a soap solution for washing the tubes/straws Problem: How much air can your lungs hold?
+
+| **Breath** | **Hypothesis (Volume of air in mL)** | **Experimental Result** |
+| ---------- | ------------------------------------ | ----------------------- |
+| Normal breath |                                   |                         |
+| Full breath |                                     |                         |
+| After holding breath for 10 seconds |             |                         |
+
+**Hypothesis:** Record the volume of air that you think the lungs can hold for each case in the table.
+**Procedure:** Fill a basin with water. Fill a 1.5 L bottle with water and invert it in the basin so that the mouth of the bottle is underneath the water. Place one end of the tube/straw inside the bottle under water. For each breath, blow into the tube to displace the water.
+**Observations:** Note the reading on the scale before and after blowing into the tube and record the *difference* to give the amount of water displaced.
+**Questions:**
+
+1. Which breath produces the largest amount of air? Which give the smallest amount?
+2. How long can you hold your breath?
+
+**Hypothesis:** I can hold my breath for ￼________ seconds. 
+    
+**Experimental Result:** I can hold my breath for ￼____________￼ seconds.
+	
+**Theory:** When we breath in air, our bodies use the oxygen and produce carbon dioxide in a process called *respiration.* Oxygen is transported in our blood throughout our bodies. When we hold our breath, oxygen is not circulated throughout our bodies and we begin to feel lightheaded.
+
+##30.2 Chemistry
+
+###Acids and Bases
+
+![acids-bases-sci-meth.jpg](images/acids-bases-sci-meth.jpg)
+
+**Materials:** Bottles, bottle caps, water, vinegar, lemons, baking soda, soda, soap, antacid tablets, rosella leaves, straws/syringes
+**Setup:** Prepare solutions for each of the items above in separate bottles. Prepare indicator by placing rosella leaves in hot water.
+
+**Problem:** What differences can we observe among acids and bases?
+
+| **Solutions** | **Hypothesis (Which is different?)** | **Experimental Result** |
+| ------------- | ------------------------------------ | ----------------------- |
+| Vinegar, lemon, baking soda |                        |                         |
+| Vinegar, baking soda, soap |                         |                         |
+| Baking soda, antacid, soda |                         |                         |
+| Soda, soap, vinegar |                                |                         |
+
+**Hypothesis:** For each set of solutions, which one will reveal a colour different from the others? Record your predictions in the table.
+**Procedure:** Place small amounts of 3 different solutions in separate bottle caps according to the table. Add a few drops of rosella indicator to each.
+**Observations:** Record observations of colour change under Experimental Result in the table.
+**Questions:**
+
+1. Which solutions have similar properties?
+2. Which solutions are acids? What colour do they show?
+3. Which solutions are bases? What colour do they show?
+
+**Theory:** Coloured leaves such as rosella act as indicators for identifying acids and bases. Adding rosella indicator reveals a red colour for acids and a blue colour for bases. Students do not need to understand the differences between acids and bases in order to observe their different behaviours. Locally available examples of acids include sour milk, citrus fruits and soda. Local bases include ammonia, toothpaste and detergent.
+
+###Mixing Acids and Bases
+
+![mixing-acid-base.jpg](images/mixing-acid-base.jpg)
+
+**Problem:** WHat happens when acids and bases are mixed together?
+
+| **Solutions to Mix** | **Hypothesis (what color?)** | **Experimental Result** |
+| -------------------- | ---------------------------- | ----------------------- |
+| Mix vinegar and lemon    |                          |                         |
+| Mix baking soda and soap |                          |                         |
+| Mix vinegar and baking soda |                       |                         |
+
+**Hypothesis:** Predict any colour changes or observations when pairs of solutions are mixed together. Record in the table.
+**Procedure:** Mix small amounts of solutions together according to the table. Observations: Record observations (colour changes, etc.) in the table.
+**Questions:**
+
+1. What happens when an acid is mixed with an acid?
+2. What happens when a base is mixed with a base?
+3. What happens when an acid is mixed with a base?
+
+**Theory:** Mixing acids with acids and bases with bases may cause the colour of the solution to turn darker or lighter depending on the solutions used. Mixing an acid with a base should reveal a colourless solution and produce carbon dioxide gas. You may need to vary the amounts of acid and base to get a colourless solution depending on their concentrations.
+
+##30.3 Physics
+
+###Complete the Circuit
+￼
+![screen-shot-2014-09-10-at-21946-pm.png](images/screen-shot-2014-09-10-at-21946-pm.png)
+
+**Materials:** Dry cell, speaker wire, bulb/ammeter, cardboard, various objects, e.g. rubber band, nail, paper, aluminum foil, toothpick, pen, scissors, bottle cap, coin, balloon, chalk
+**Setup:** Connect a dry cell and bulb in series using speaker wire and attach to a sheet of cardboard. Leave two wires free and pin to the cardboard to act as a switch.
+
+**Problem:** Which objects will light a bulb?
+
+| **Object**      | **Hypothesis (Light or No Light)** | **Experimental Result** |
+| --------------- | ---------------------------------- | ----------------------- |
+| Copper wire     |                                    |                         |
+| Pen             |                                    |                         |
+| Aluminum Foil   |                                    |                         |
+| Paper           |                                    |                         |
+| Nail            |                                    |                         |
+| Toothpick       |                                    |                         |
+| Bottle cap      |                                    |                         |
+| Chalk           |                                    |                         |
+| Scissors (blade) |                                   |                         |
+| Scissors (handle) |                                  |                         |
+
+**Hypothesis:** Predict which materials will cause the bulb to light when placed across the switch. Record predictions in the table.
+**Procedure:** Test each object by placing it across the free wires to close the circuit. Observations: Record the result for each item in the table.
+**Questions:**
+
+1. Which materials caused the bulb to light?
+2. These objects are made from what kind or materials?
+3. What other objects in the room can you find to test? Will they light the bulb?
+
+**Theory:** Conductors are materials which easily allow electrons to flow through them. Insulators are materials which do not easily allow the the flow of electrons. Examples of good conductors are most metals, water and the human body. Examples of good insulators are rubber, wood and plastic.
+
+###Density Tower
+
+![density-tower-sci-meth.png](images/density-tower-sci-meth.png)
+
+**Materials:** Syringes, bottles, water, cooking oil, kerosene, spirit, honey, glycerine, tape, scissors
+**Setup:** Prepare a test tube rack by cutting a bottle and filling it with dirt. Remove the plungers from
+the syringes and seal them with tape, super glue, or by melting to opening closed.
+
+**Problem:** Which liquids are more dense than others?
+
+| **Liquid** | **Hypothesis (Position, 1 = bottom)** | **Experimental Results** | 
+| ---------- | ------------------------------------- | ------------------------ |
+| Water       |       |        |
+| Cooking oil |       |        |
+| Kerosene    |       |        |
+| Spirit      |       |        |
+| Honey       |       |        |
+| Glycerine   |       |        |
+
+**Hypothesis:** Predict the order in which the liquids will settle from the bottom of the syringe. Assign 1 to the bottom liquid, 2 to the one above it, and so on.
+**Procedure:** Pour a small amount of each liquid into a syringe, observing after each addition.
+**Observations:** After adding all liquids, record the order in which they rest, starting with 1 at the bottom.
+**Questions:**
+
+1. Which liquid finished at the bottom?
+2. Which liquid finished at the top?
+3. Which liquid has the greatest density?
+4. Which liquid has the lowest density?
+5. What happens if you place a small object (e.g. paper clip, eraser, paper) in the tower?
+
+**Theory:** *Density* is a property of different materials and liquids. It is a ratio of its mass to its volume. Dense liquids sink to the bottom, while less dense liquids rise to the top. A small object placed in the tower will settle in the liquid which is nearest its own density.
+
+###Sinkers and Floaters
+**Materials:** Basin of water, various objects, e.g. nail, paper clip, paper, aluminum foil, soda cap, matchbox, pen cap, toothpick, balloons, flour
+**Setup:** Have a controlled environment to test sinking and floating objects
+
+**Problem:** Which objects sink or float when placed in water?
+
+| **Object** | Hypothesis (Sink or Float?)** | **Experimental Results** | 
+| ---------- | ----------------------------- | ------------------------ |
+| Nail                        |       |         |
+| Paper clip                  |       |         |
+| Pen cap                     |       |         |
+| Soda cap (dropped)          |       |         |
+| Soda cap (placed carefully) |       |         |
+| Toothpick                   |       |         |
+| Paper                       |       |         |
+| Aluminum foil               |       |         |
+| Matchbox                    |       |         |
+| Balloon (empty)             |       |         |
+| Balloon (filled with flour) |       |         |
+| Balloon (filled with water) |       |         |
+| Balloon (filled with air)   |       |         |
+
+**Hypothesis:** Predict whether each object will sink or float when placed in the basin of water. Record in the table.
+**Procedure:** Place each object in the water. First place them very carefully, then drop them in. 
+**Observations:** Record the results in the table.
+**Questions:**
+
+1. What factors affect whether an object sinks or floats?
+2. How do large objects such as boats float?
+
+**Theory:** *Flotation* depends on several things. A bottle cap placed carefully on the surface of the water will float, but when pushed under, will sink. A sheet of aluminum foil will float while a sheet of the same size which is folded several times will sink. A balloon filled with flour sinks, one filled with water just floats, and one filled with air floats above the surface.
+
+If an object’s *total density* is greater than that of water, it sinks, but if less than water, it floats. Air has a density less than water, so when air is trapped in objects such as bottle caps or balloons, they float because their total density is less than water. When air is removed (folded aluminum foil) or replaced by water (bottle cap), the total density of the object is just the density of the material. A matchbox pushed under water rises back to the surface because its density is less than that of water.
+
+Boats are able to float despite being built from dense materials because of the large volume of water they displace and the large amount of air inside the boat. A boat with a larger surface area displaces a larger volume of water and thus can carry a larger load before sinking.
+
+Follow up this activity with the *Raft Rally* science competition.
+
+###Mixing Colours
+
+**Materials:** Various food colours, syringes, bottle, scissors, tape, paper
+**Setup:** Prepare a test tube rack by cutting a bottle and filling it with dirt. Remove the plungers from the syringes and seal them with tape, super glue, or by melting to opening closed.
+**Problem:** What happens when we mix different colours?
+
+| **Colors to Mix** | **Hypothesis (What result color?)** | **Experimental Results** | 
+| ----------------- | ----------------------------------- | ------------------------ |
+| Red and green     |                                     |                          |
+| Yellow and blue   |                                     |                          |
+| Red and yellow    |                                     |                          |
+| All colors        |                                     |                          |
+
+**Hypothesis:** Predict which colour will result when the two colours given are mixed together. Record it in the table.
+**Procedure:** Use syringes to remove small amounts of each colour and place on a sheet of paper. Be sure to lay down plenty of paper so that the colours do not bleed through onto the table!
+**Observations:** Record the resulting colour mixture in the table.
+**Questions:**
+
+1. How can you make orange from other colours?
+2. What colour do you get by mixing all of the colours together? 3. What are some uses of coloured dyes?
+
+**Theory:** Red, green and blue are primary colours of light. Other colours are made by different combi- nations of these primary colours. Coloured dyes are used for many applications, including clothes, paper and printing pictures.

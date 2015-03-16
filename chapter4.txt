@@ -1,0 +1,65 @@
+#Chapter 4: Salvaging Old Equipment
+
+##4.1 Checking Voltmeters and Ammeters/Galvanometers
+Needed: Meters to check, a couple wires, some resistors and a fresh battery.
+Important note: There is a wrong way to hook up the meter. The needle will try to deflect down because negative and positive are swapped. If the reading is zero, make sure that you try the opposite connection to be sure.
+
+###4.1.1 Voltmeters
+Hook up the voltmeter across the battery. The battery is probably 1.5 V, but do not worry if you see 1.1, 1.2, even if using a brand new battery. Try not to use a battery that reads much below 1 V on several different meters.
+
+Unuseable Voltmeters
+
+- Totally dead, no deflection of the needle
+- Voltage reading jumps excessively. Ensure that the connections are solid and test again.
+- Measured voltage is totally wrong, not close to 1.5 V
+
+Useable Voltmeters
+
+- Read a voltage close to 1.5. If the voltage if not 1.5 exactly, the voltmeter is probably working fine, and the battery is just off a bit.
+
+###4.1.2 Ammeters
+Hook up the ammeter in series with a resistor. Because you do not necessarily know the condition of the ammeter before testing, be sure to have several different resistors on hand. An ammeter may appear not to work if resistance is too high or too low. Start testing different ammeters.
+
+Unuseable Ammeters
+
+- Totally dead, no deflection of the needle
+- Current reading jumps excessively (but check connections) 
+- Totally wrong, reads much different from other ammeters
+
+Useable Ammeters
+
+- Read a current similar to other ammeters. Hard to say exactly what current, but feel free to calculate based on your resistor using V = IR, although do not forget that there is some internal resistance r of battery, so V = I(R + r). The resistance of the resistor is usually coded on the resistor in a series in stripes – see the instructions under Resistors in Sources of Laboratory Equipment (p. 216).
+
+Tip: You can hold the wires onto the battery with your fingers; the current is far too low to shock you.
+
+Other: Now that you have tested to see if your voltmeters and ammeters work, you can feel free to check all of them for accuracy, by calculating expected values and comparing between meters. Most practicals will still work alright with “somewhat” accurate meters, and most meters are either fine, or broken.
+
+## 4.2 Repairing Burettes
+First, if you need burettes, consider buying plastic burettes. They are widely available if you ask persistently and they tend not to break. This may be hard as many suppliers prefer to sell glass burettes. Why? As one supplier told us, ”Because when people buy plastic burettes, they don’t return.” The good news for every school with glass burettes is than often broken burettes can be repaired.
+
+### 4.2.1 The top of the burette is broken, above the 0 mL line.
+This burette is still fully functional. A student will probably need a beaker for filling the burette, but she should be using one anyway. Use a metal file (best!), stone, or piece of cement to gently grind the broken edge smooth to prevent cuts.
+
+### 4.2.2 The burette is broken in the graduated section, that is, between 0 ml and 50 ml.
+This burette is still slightly useful for titrations if it has most of its length. Students will just have an initial volume of 7 ml, perhaps. If it has broken around the 45 ml mark, no such luck. The burette tube however, is still quite useful as a glass pipe. Keep it around for other kinds of experiments. At the very least you have a glass rod for mixing solutions. Regardless, grind the edges smooth as in case one.
+
+###4.2.3 The burette is broken below the 50 ml but above the valve.
+To fix this, you need a Biafa (fake Bic) pen and about 8cm of rubber tubing. Orange gas supply tubing is best, but hard to find. The black rubber of the inside of bicycle pump hoses also works.
+
+- First, cut off the tip of the pen, the first 2 cm of so, and attach the non-tapered end of it to the tubing. Cutting is easiest done by scoring all the way around with a razor blade and then cleanly snapping the shaft. Remove any plastic burrs from the cut edge and then insert the wider end of the severed tip into the plastic tubing so the narrow end hangs out.
+- Second, remove from the pen the little plastic end cap (the one that tells you what color ink you have) and insert it into the tubing, curved side first. Push it about half way down the tube using your fingers like esophageal peristalsis and make sure that the axis of symmetry of the pen cap stays aligned with that of the rubber tubing. That is, if the now discarded pen were still there, it would be surrounded by the tube.
+- Finally, attach the other end of the tubing to the broken burette. Again, grind the sharp glass end to smooth it. What you should end up with is a burette that does not pass solution except when you press on the tubing around the pen end cap, deforming the tube to allow liquid to pass. With practice this can be easier than using a valve, and just as accurate.
+
+Steel ball bearings are available for cheap at bicycle supply shops. These might be an alternative to the end caps of Biafa pens if you can get them in the right size. Experiment!
+
+###4.2.4 The valve is jammed
+No problem! Soak it in dilute acid (not nitric) until it is free.
+
+###4.2.5 The valve is hopelessly broken.
+Break the burette just above the valve and follow the instructions above. Soak a string in something flammable – kerosene, nail polish remover – and gently squeeze out the excess. Tie the string around the shaft where you want to ”cut” the glass and remove the excess string. Dry up any liquid that spilled on other parts of the glass. Light the string on fire and rotate to make sure it burns evenly. After five or so seconds of burning, plunge the piece into a beaker or bucket of water. The contraction of the rapidly cooling glass should break the burette along where you tied the string. Grind the edge to smooth it.
+
+###4.2.6 The burette is broken below the valve.
+This problem is mostly aesthetic, but to fix it you only need about 3 cm of rubber tubing and a clear plastic pen. Cut the tip from the pen as above and insert it into the tubing. Then stick the other end of the tubing onto the broken burette, grinding down the glass edge before you do.
+
+###4.2.7 The rubber tubing is cracking.
+This usually comes from leaving clamps on the tubing during storage. To fix this, replace the rubber tubing. But while you are at it, insert a pen cap as in case three and do away with the clamps. They are more difficult to use and not as sensitive.

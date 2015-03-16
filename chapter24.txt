@@ -1,0 +1,57 @@
+#Chapter 24: Using a Microscope 
+
+##24.1 Parts of a Microscope
+
+- Eyepiece: or ocular lens is what you look through at the top of the microscope. Typically, the eyepiece has a magnification of 10x.
+- Body Tube: tube that connects the eyepiece to the objectives
+- Objective Lenses: primary lenses on the microscope (low, medium, high, oil immersion) which are used to greater magnify the object being observed. A low power lens for scanning the sample, a medium power lens for normal observation and a high power lens for detailed observation. Normal groups of lens magnifications may be [4×, 10×, 20×] for low magnification work and [10×, 40×, 100×] for high magnification work. Some microscopes also use oil immersion lenses and these must be used with immersion oil between the lens and the cover slip on the slide. Oil immersion allows for a much greater magnification than air and typically ranges from 40x-100x.
+- Revolving Nosepiece: houses the objectives and can be rotated to select the desired magnification.
+- Coarse Adjustment Knob: a large knob used for focusing the specimen
+- Fine Adjustment Knob: small knob used to fine-tune the focus of the specimen after using the coarse adjustment knob.
+- Stage: where the specimen to be viewed is placed
+- Stage Clips: used hold the slide in place
+- Aperture: hole in the stage that allows light through to reach the specimen
+- Diaphragm: controls the amount of light reaching the specimen
+- Light Source: is either a mirror used to reflect light onto the specimen or a controllable light source such as a halogen lamp
+
+##24.2 How to Use a Microscope
+- Always carry a microscope with two hands! One on the arm and one on the base!
+- Plug the microscope into an electrical source and turn on
+- Make sure the stage is lowered and the lowest power objective lens is in place
+- Place the slide under the stage clips with specimen above the aperture
+- Look through the eyepiece and use the coarse adjustment knob to bring the specimen into focus
+- If the microscope uses a mirror as the light source, adjust the mirror so enough light is reflected through the aperture onto the specimen
+- You can adjust the amount of light reaching the specimen by opening and closing the diaphragm
+- Once the object is visible, use the fine adjustment knob for a more precise focus
+- At this point you can increase the magnification by switching to a higher power objective lens
+- Once you switch from the low power objective lens, you should no longer be using the coarse adjustment knob for focusing because it is possible to break the slide and scratch the lenses
+- If you switch objectives, use the fine adjustment to fine-tune the focus of the object If the high powered objective lenses on the microscope say oil then you can place a small drop of immersion oil on the cover slip then switch to the oil immersion lens. Only use the oil immersion lens with immersion oil and don’t use oil with any other objective that does not say oil.
+- Once you have finished observing the specimen, lower the stage, remove the slide, and return to the lowest objective
+- Clean the lenses with lens cleaner and lens paper (only use lens paper as other tissues will scratch the lenses)
+- Wrap the cord around the base and cover the microscope for storage
+
+##24.3 Making a Wet Mount
+
+- Collect a thin slice (one cell layer thick is optimal) of specimen and place on the slide
+- Place a drop of water directly over the specimen
+- Place a cover slip at a 45 degree angle over the specimen with one edge touching the drop of water then drop the cover slip over the specimen. If done correctly, the cover slip will completely cover the specimen and there will be no air bubbles present.
+
+##24.4 Staining a Slide
+
+- Once you have completed the above process place one small drop of stain (ex. Iodine, methylene blue) on the outside edge of the cover slip
+- Place the flat edge of a paper towel on the other side of the cover slip. The paper towel will draw the water out from under the cover slip and pull in the stain
+
+##24.5 Magnification
+
+The actual power of magnification is a product of the ocular lens (usually 10x) times the objective lens.
+
+##24.6 Troubleshooting
+
+1. _The Image is too dark!_
+    Adjust the diaphragm and make sure your light is on.
+2. _There’s a spot in my viewing field, even when I move the slide the spot stays in the same place!_
+    Your lens is dirty. Use lens paper, and only lens paper to carefully clean the objective and ocular lens. The ocular lens can be removed to clean the inside.
+3. _I can’t see anything under high power!_
+    Remember the steps, if you can’t focus under scanning and then low power, you won’t be able to focus anything under high power.
+4. _Only half of my viewing field is lit, it looks like there’s a half-moon in there!_
+    You probably don’t have your objective fully clicked into place.

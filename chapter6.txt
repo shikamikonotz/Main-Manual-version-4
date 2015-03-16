@@ -1,0 +1,135 @@
+#Chapter 6: Guidelines for Laboratory Safety
+
+There is no excuse for laboratory accidents. Students and teachers get hurt when they do something dangerous or when they are careless. If you do not know how to use a substance or a tool safely, do not use it. If your students do not know how to use a chemical or a tool safely, do not let them use it until they do. Adopt a zero tolerance policy towards truly unsafe behavior (running, fighting, throwing objects, etc.) – first infraction gets students kicked out of class for the day. Explain the error to everyone to make sure that it is never repeated. If the same student errs again, expel him for longer. Make it clear that you will not tolerate unsafe behavior.
+
+Remember, the teacher is responsible for everything that happens in the lab. If a student is hurt the teacher is to blame. Either the teacher did not understand the danger present, did not adequately prepare the laboratory or the lesson, did not adequately train the student in safe behavior, or did not offer adequate supervision. As a teacher, you must know exactly the hazards of your chemicals, tools, and apparatus. Explain these hazards clearly and concisely to your students before they touch anything.
+
+The following rules are for everyone in the lab to follow – students, teachers, and visitors alike. We recommend painting them directly on the wall as most paper signs eventually fall down.
+
+##6.1 Basic Lab Rules
+1. Wear proper clothes. For every practical, wear shoes. Sandals are not acceptable lab ware. If you are pouring concentrated chemicals, you need to wear safety goggles.
+2. Nothing enters the mouth in the lab. This means no eating, no drinking, and no mouth pipetting.
+3. Follow the instructions from the teacher. Obey commands immediately. Only mix chemicals as instructed.
+4. If you do not know how to do something or what to do, ask the teacher.
+
+In addition to these rules, we recommend a variety of guidelines for teachers and lab managers to keep the lab a safe place.
+
+##6.2 Specific Guidelines to Reduce Risk
+
+###1. Never use the following chemicals: 
+####1.1. Organic liquids, including:
+- Benzene (C6H6)
+- Chlorobenzene (C6H5Cl)
+- Dichloromethane (CH2Cl2)
+- Tetrachloromethane/carbon tetrachloride (CCl4)
+- Trichloroethane (CH3CCl3)
+- Trichloromethane/chloroform (CHCl3)
+
+####1.2. Anything containing mercury:
+- Mercury metal (Hg)
+- Mercurous/mercuric chloride (HgCl/HgCl2)
+- Million’s Reagent (Hg + HNO3)
+- Nestler’s Reagent (HgCl2 + others)
+- For more information about these chemicals, their risks, and what to do if you find them in your lab, see Laboratory Safety: Dangerous Chemicals (p. 37).
+
+###2. Do not make hazardous substances
+- Chlorine gas - electrolysis of chloride salts, oxidation of chloride salts or hydrochloric acid by oxidizing agents such as bleach or potassium permanganate
+- Chloroamines - ammonia with bleach. People have died mixing ammonia and bleach together when mixing cleaning agents.
+- Hydrogen cyanide - cyanide salts, including ferro- and ferri-cyanide, with acids.
+
+###3. Avoid hazardous substances
+####3.1. If you have a choice, use non-poisonous substances. To be a good teacher, the only poisons that you have to use are those required by the national exams. For all other activities, use less dangerous substances.
+####3.2. Only give students small quantities of required poisons.
+####3.3. For advice on handling the various required poisons, see Laboratory Management: Dangerous Chemicals.
+
+###4. Avoid explosions
+- Never heat ammonium nitrate.
+- Never heat nitrates in the presence of anything that burns.
+- Never heat a closed container.
+- If performing a distillation or other experiment with boiling or hot gases, make sure that there is always an unobstructed path for gases to escape.
+
+###5. Avoid fires
+- Be careful!
+- Keep all flammable materials away from flames. Never have the following very flammable chemicals in the same room as fire: propanone (acetone), ethyl ethanoate (ethyl acetate), diethyl ether.
+- Keep stoves clean and in good working order. Do not douse stoves with water to extinguish them because the metal will corrode much faster (think kinetics). There is never a need for this. If the stove does not extinguish on its own, you should repair it so it does.
+- Only use the appropriate fuel for a given stove. For example, never put petrol in a kerosene stove.
+
+###6. Avoid cuts
+- Only use sharp tools when required, and design activities to minimize use of sharp tools.
+- Keep sharp tools sharp. The only thing more dangerous than cutting with a sharp knife is cutting with a dull one.
+- Use the right tool for cutting.
+- Use as little glass as possible.
+- Do not use broken glass apparatus. The last thing you want to deal with during a practical is serious bleeding. It is tempting to keep using that flask with the jagged top. Do not. Do not let anyone else use it either – break it the rest of the way.
+- Dispose of sharp trash (glass shards, syringe needles) in a safe place, like a deep pit latrine.
+
+###7. Avoid eye injuries
+- Students should wear goggles during any activity with a risk of eye injury. See the Materials: Apparatus section for suggestions on goggles. If you do not have the goggles necessary to make an experiment safe, do not do the experiment.
+- Keep test tubes pointed away from people during heating or reactions. Never look down a test tube while using it.
+- Never wear contact lenses in the laboratory. They have this way of trapping harmful chemi- cals behind them, magnifying the damage. Besides, glasses offer decent (though incomplete) protection on their own.
+
+###8. Avoid chemical spills
+- Teach students that if they get chemicals on their hands, they should wash them off immediately, without asking for permission first. Some students have been taught to wait for a teacher’s permission before doing anything in the lab, even if concentrated acid is burning their hands. On the first day, give them permission to wash their hands if they ever spill chemicals on them.
+- Also, teach students to tell you immediately when chemicals are spilled. Sometimes they hide chemical spills for fear of punishment. Do not punish them for spills - legitimate accidents happen. Do punish them for unsafe behavior of any kind, even if it does not result in an accident.
+
+###9. Use adequate protection with hazardous chemicals.
+####9.1. Wear eye protection (see above). Find goggles or things that will substitute.
+####9.2. Tie a cloth over your face when using concentrated ammonia or HCl. For the latter chemical, see below.
+####9.3. Sulfuric Acid, H2SO4
+- There is never any reason to ever use fully concentrated (18 M) sulfuric acid.
+- For qualitative analysis, 5 M H2SO4 is sufficient for ”concentrated sulfuric acid.”
+- Do not buy 18 M sulfuric acid. Battery acid will suffice for qualitative analysis and is a much safer (if still quite dangerous) source of sulfuric acid.
+- If you already have 18 M sulfuric acid in your lab, just leave it. Battery acid is so cheap you can afford to get as much as you need.
+
+####9.4. Hydrochloric acid, HCl
+- Hydrochloric acid is never required.
+- Do not buy concentrated hydrochloric acid. Use battery acid for all of its strong acid applications.
+- When you need the reducing properties of HCl, for the precipitation of sulfur from thiosulfate in kinetics experiments for example, make a solution with the proper molarity of chloride and H+ by dissolving sodium chloride in battery acid and diluting with water.
+
+####9.5. Nitric acid, HNO3
+- The only time nitric acid is required is to dissolve certain carbonates in qualitative anal- ysis. The first time you need nitric acid, prepare a large volume of dilute acid (e.g. 2.5 L) so that you do not need to handle the concentrated acid again.
+- If many schools share a single bottle of concentrated acid, they should dilute it at a central location and transport only the dilute acid.
+- Teach qualitative analysis of insoluble carbonates using copper, iron, or zinc carbonate – these will dissolve in dilute sulfuric acid.
+
+###10. Avoid mouth pipetting
+- Never do it!
+- This is a dangerous activity prohibited in every modern science laboratory. 10.3. Use rubber pipette filling bulbs or plastic syringes.
+- For more explanation, see Mouth pipetting in Dangerous Techniques (p. 43).
+
+###11. Be prepared
+- Set aside a bucket of water for first aid.
+- It should not be used for anything else.
+- Have materials to fight fires and know how to use them.
+- A bucket of sand will work for any lab fire, is available to every school, and can be used by anyone.
+
+###12. Use good habits
+####12.1. Hand washing
+- Students should wash their hands every time they leave the lab.
+- Always have water and soap available, ideally in buckets on a desk near the door.
+- Even if students do not touch any chemicals when they are in the lab, they should still wash their hands.
+
+####12.2. Clean all benches and chemicals
+- Stray chemicals and contaminated apparatus has the potential for danger.
+- Make sure students do not leave stray pieces of paper.
+- Ensure all students clean the apparatus they use immediately after use.
+- Have students to clean apparatus prior to use. It is not always possible to trust the students washed the apparatus after their last use.
+
+####12.3. Tasting chemicals
+- Students should never eat anything in the lab. Ever.
+- Barium nitrate looks just like sodium chloride. Lead carbonate looks like starch.
+- Do not bring food into the lab.
+- If you use domestic reagents (vinegar, salt, baking soda, etc.) in the lab, label them and leave them in the lab.
+
+####12.4. Smelling chemicals
+- Be aware that many chemicals give of fumes that can produce obnoxious odors or be irritating to the respiratory system.
+- Practicals involving nitrates, chlorides, ammonium compounds, and some sulphates pro- duce harmful gases.
+- Open the lab windows to maximize airflow.
+- Kerosene stoves also produce noxious fumes - it is much better to use motopoa.
+- If students feel dizzy or sick from the fumes, let them go outside to recover.
+- Many lab reagents – ammonia, hydrochloric acid, nitric acid, ethanoic (acetic) acid – can cause serious damage if inhaled directly.
+
+####12.5. Keep bottles and other apparatus away from the edge of the table. Twenty centimeters is a good rule.
+####12.6. Cap reagent botles when they are not in use.
+####12.7. Do not do things you do not want your students to do. They are always watching, always learning.
+
+###13. Dispose of wastes properly
+####13.1. See Laboratory Management: Waste Disposal (p. 50)
